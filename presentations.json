@@ -1,0 +1,11 @@
+{
+  "base": "/my-slides/",
+  "presentations": [
+    {
+      "path": "courses/emerging-tech/s26/w01-computation&algorithm/w01-computation&algorithm.md",
+      "title": "Week 1: History of Computation & Algorithm",
+      "course": "Emerging Technologies",
+      "semester": "S26"
+    }
+  ]
+}

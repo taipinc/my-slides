@@ -1,0 +1,22 @@
+/* Move navigation controls to upper-right corner */
+div.absolute.bottom-0.left-0:has(> nav) {
+  top: 0 !important;
+  bottom: auto !important;
+  right: 0 !important;
+  left: auto !important;
+  transition-delay: 0s !important;
+  padding: 0 !important;
+}
+
+/* Delay before appearing on hover */
+div.absolute.bottom-0.left-0:has(> nav):hover {
+  transition-delay: 0.5s !important;
+}
+
+/* Reposition nav dropdowns to appear below and aligned right */
+div.absolute.bottom-0.left-0:has(> nav) .absolute.bottom-10.left-0 {
+  bottom: auto !important;
+  top: 100% !important;
+  left: auto !important;
+  right: 0 !important;
+}
