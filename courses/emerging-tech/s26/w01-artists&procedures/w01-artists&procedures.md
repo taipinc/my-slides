@@ -1,6 +1,5 @@
 ---
 theme: apple-basic
-
 colorSchema: light
 addons:
   - ../../../slidev-addon-shared
