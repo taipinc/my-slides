@@ -257,6 +257,8 @@ layout: website-embed
 url: https://whitney.org/artists/776
 ---
 
+[Sol LeWitt, Whitney Museum of American Art](https://whitney.org/artists/776)
+
 ---
 layout: image-caption
 image: ./images/lewitt_49_instructions.jpg
@@ -308,10 +310,37 @@ image: ./images/Molnar1974DesOrdres1-copy-2000x1981.webp
 
 ---
 layout: image-caption
+image: ./images/MOL-2655-scaled.webp
+---
+
+**Vera Molnár**, *Segments Inclinés (Inclined Segments)* (1984)
+
+---
+layout: image-caption
+image: ./images/IMG_3728.jpg
+---
+
+**Vera Molnár**, *À la Recherche de Paul Klee (Looking for Paul Klee)* (1971)
+
+---
+layout: image-caption
+image: ./images/lacma-coded-molnar.webp
+---
+
+**Vera Molnár**, *À la Recherche de Paul Klee (Looking for Paul Klee)* (1970)
+---
+layout: image-caption
 image: ./images/2009BX6559.jpg
 ---
 
 **Vera Molnár**, *Letters from my Mother* (1988)
+
+---
+layout: image-caption
+image: ./images/Lettres-de-ma-Mere-Main-Machine-Letters-from-my-Mother-Hand-and-Machine-.webp
+---
+
+**Vera Molnár**, *Letters from my Mother* (1990)
 
 ---
 layout: image-caption
@@ -360,7 +389,7 @@ layout: website-embed
 url: https://collections.vam.ac.uk/item/O1242174/po32-matrix-elements-punched-card-set-manfred-mohr/
 ---
 
-**Manfred Mohr**, *Punched Card Set* (1970)
+**Manfred Mohr**, [*Punched Card Set*](https://collections.vam.ac.uk/item/O1242174/po32-matrix-elements-punched-card-set-manfred-mohr/) (1970)
 
 ---
 layout: image-caption
@@ -468,4 +497,16 @@ image: ./images/2009CD9486.jpg
 
 **Harold Cohen**, *Drawing* (1987)
 
+---
+layout: website-embed
+url: https://www.newrafael.com/internet
+---
 
+[Rafaël Rozendaal](https://www.newrafael.com/internet)
+
+---
+layout: website-embed
+url: https://constraint.systems/
+---
+
+Grant Custer, [*Constraint Systems*](https://constraint.systems/)
