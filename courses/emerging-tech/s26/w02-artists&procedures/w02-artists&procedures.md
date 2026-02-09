@@ -157,6 +157,34 @@ LA Stories: Urbanism, Music, and AI in Ed Ruscha’s Archive
 
 ---
 layout: image-caption
+image: ./images/30819417171.jpg
+---
+
+**Marc Saporta**, *Composition No. 1* (1962)
+
+---
+layout: image-caption
+image: ./images/30819417171_2.jpg
+---
+
+**Marc Saporta**, *Composition No. 1* (1962)
+
+---
+layout: image-caption
+image: ./images/Queneau_sonnets.jpg
+---
+
+**Raymond Queneau**, *Cent mille milliards de poèmes* (1961)
+
+---
+layout: image-caption
+image: ./images/Synekura-Audio.webp
+---
+
+**Raymond Queneau**, *Cent mille milliards de poèmes* (1961)
+
+---
+layout: image-caption
 image: ./images/W1siZiIsIjUzMDI2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
 ---
 
@@ -274,6 +302,59 @@ url: https://massmoca.org/sol-lewitt/
 Sol LeWitt: A Wall Drawing Retrospective, MASS MoCA, 2021-22
 
 ---
+layout: center
+---
+
+#### Computational art centers on the aesthetic relationship in computation. Computational artworks are systems, and much like the "unobjects" of systems aesthetics, they are post-formalist. This means that more than highlighting morphologies, they value relationships and derive their aesthetic value from these. They hinge on problems of organization and rather than creating artifacts, they create environments that emerge from interacting components and where computation itself becomes an aesthetic output, sometimes even the fundamental aesthetic output, the work's raison d'être.
+<br>
+    
+#### Computational art can use classical, non-computational, media and then work with humans that are able to process information and enact the computational processes. A computational artwork may therefore not compute itself but rather give humans the resources that are needed to deploy computation.
+
+Art and Computation, Miguel Carvalhais, 2022
+
+---
+layout: image-caption
+image: ./images/Picture_produced_by_Drawing_Machine_1.jpg
+---
+
+**Desmond Paul Henry**, *Picture produced by Drawing Machine No. 1*
+
+---
+layout: image-caption
+image: ./images/Drawing_Machine_1.jpg
+---
+
+**Desmond Paul Henry**, *Henry's first drawing machine*
+
+---
+layout: image-caption
+image: ./images/W1siZiIsIjIxMDc3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+---
+
+**Jean Tinguely**, *Fragment from Homage to New York* (1960)
+
+---
+layout: image-caption
+image: ./images/W1siZiIsIjM4OTEyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+---
+
+**Jean Tinguely**, *Metamatic No. 8* (1960)
+
+---
+layout: image-caption
+image: ./images/W1siZiIsIjI3OTIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+---
+
+**Jean Tinguely**, *Metamatic No. 4* (1960)
+
+---
+layout: image-caption
+image: ./images/W1siZiIsIjI3OTIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+---
+
+**Jean Tinguely**, *Metamatic No. 4* (1960)
+
+---
 layout: image-caption
 image: ./images/vem_1021_300dpi copy.jpg
 ---
@@ -341,6 +422,17 @@ image: ./images/Lettres-de-ma-Mere-Main-Machine-Letters-from-my-Mother-Hand-and-
 ---
 
 **Vera Molnár**, *Letters from my Mother* (1990)
+
+---
+layout: center
+---
+
+#### Computational art is not about using computers and computations as remediators or as simulators of media and tools. Rather, it is about artworks from which computation is inextricable, artworks in which computation is fundamental for their understanding, for the construction of meaning, and for the development of that intersubjective experience we call art.
+<br>
+    
+#### Art presupposes technological practices although it is not one itself. This makes computational art not so much about the technologies of computation as about the phenomena of computation. About creating art from computation and revealing "something that is concealed, hidden, implicit, or left in the background," which is how computation exists in, and can profoundly shape, the world and our lives. The central tasks of art are not transformed by computation, but its usage in art opens opportunities to explore tensions inside objects and between objects and ourselves, and to develop unprecedented aesthetic experiences.
+
+Art and Computation, Miguel Carvalhais, 2022
 
 ---
 layout: image-caption
