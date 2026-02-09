@@ -9,84 +9,87 @@
  * Output goes to docs/.  Commit that folder and push – GitHub Pages serves it.
  */
 
-import { execSync } from 'node:child_process'
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs'
-import { resolve, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { execSync } from "node:child_process";
+import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { resolve, dirname } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const ROOT     = resolve(dirname(fileURLToPath(import.meta.url)), '..')
-const manifest = JSON.parse(readFileSync(resolve(ROOT, 'presentations.json'), 'utf8'))
-const BASE     = manifest.base   // e.g. '/my-slides/'
-const DOCS     = resolve(ROOT, 'docs')
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+const manifest = JSON.parse(
+  readFileSync(resolve(ROOT, "presentations.json"), "utf8"),
+);
+const BASE = manifest.base; // e.g. '/my-slides/'
+const DOCS = resolve(ROOT, "docs");
 
 // ── optional CLI filter ─────────────────────────────────────
-const query  = process.argv[2]?.toLowerCase()
+const query = process.argv[2]?.toLowerCase();
 const toBuild = query
-  ? manifest.presentations.filter(p =>
-      p.title.toLowerCase().includes(query) ||
-      p.path.toLowerCase().includes(query)
+  ? manifest.presentations.filter(
+      (p) =>
+        p.title.toLowerCase().includes(query) ||
+        p.path.toLowerCase().includes(query),
     )
-  : manifest.presentations
+  : manifest.presentations;
 
 if (toBuild.length === 0) {
-  console.error(`No presentations match "${query}"`)
-  process.exit(1)
+  console.error(`No presentations match "${query}"`);
+  process.exit(1);
 }
 
 // ── build ───────────────────────────────────────────────────
-mkdirSync(DOCS, { recursive: true })
+mkdirSync(DOCS, { recursive: true });
 
 for (const pres of toBuild) {
-  const relDir   = dirname(pres.path)                // e.g. courses/emerging-tech/s26/w01-…
-  const outDir   = resolve(DOCS, relDir)             // absolute → works with slidev --out
-  const presBase = BASE + relDir + '/'               // e.g. /my-slides/courses/.../
+  const relDir = dirname(pres.path); // e.g. courses/emerging-tech/s26/w01-…
+  const outDir = resolve(DOCS, relDir); // absolute → works with slidev --out
+  const presBase = BASE + relDir + "/"; // e.g. /my-slides/courses/.../
 
-  console.log(`\n▸ ${pres.title}`)
-  console.log(`  base  ${presBase}`)
-  console.log(`  out   docs/${relDir}/\n`)
+  console.log(`\n▸ ${pres.title}`);
+  console.log(`  base  ${presBase}`);
+  console.log(`  out   docs/${relDir}/\n`);
 
   execSync(
     `pnpm slidev build "${pres.path}" --base "${presBase}" --out "${outDir}"`,
-    { cwd: ROOT, stdio: 'inherit' }
-  )
+    { cwd: ROOT, stdio: "inherit" },
+  );
 }
 
 // ── always regenerate index + 404 from the full manifest ───
-writeFileSync(resolve(DOCS, 'index.html'), indexPage())
-writeFileSync(resolve(DOCS, '404.html'),   notFoundPage())
-console.log('\n✓ docs/ is ready – commit and push to deploy\n')
+writeFileSync(resolve(DOCS, "index.html"), indexPage());
+writeFileSync(resolve(DOCS, "404.html"), notFoundPage());
+console.log("\n✓ docs/ is ready – commit and push to deploy\n");
 
 // ── HTML helpers ────────────────────────────────────────────
 function esc(s) {
   return String(s)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
 }
 
 // ── index page ──────────────────────────────────────────────
 function indexPage() {
   // group: course → semester → [presentation]
-  const tree = {}
+  const tree = {};
   for (const p of manifest.presentations) {
-    ;(tree[p.course] ??= {})[p.semester] ??= []
-    tree[p.course][p.semester].push(p)
+    (tree[p.course] ??= {})[p.semester] ??= [];
+    tree[p.course][p.semester].push(p);
   }
 
-  let sections = ''
+  let sections = "";
   for (const [course, semesters] of Object.entries(tree).sort()) {
-    let semBlocks = ''
+    let semBlocks = "";
     for (const [sem, list] of Object.entries(semesters).sort()) {
       const links = list
-        .map(p => {
-          const href = esc(BASE + dirname(p.path) + '/')
-          return `      <li><a href="${href}">${esc(p.title)}</a></li>`
+        .map((p) => {
+          const href = esc(BASE + dirname(p.path) + "/");
+          return `      <li><a href="${href}">${esc(p.title)}</a></li>`;
         })
-        .join('\n')
-      semBlocks += `    <h3>${esc(sem)}</h3>\n    <ul>\n${links}\n    </ul>\n`
+        .join("\n");
+      semBlocks += `    <h3>${esc(sem)}</h3>\n    <ul>\n${links}\n    </ul>\n`;
     }
-    sections += `  <section class="course">\n    <h2>${esc(course)}</h2>\n${semBlocks}  </section>\n`
+    sections += `  <section class="course">\n    <h2>${esc(course)}</h2>\n${semBlocks}  </section>\n`;
   }
 
   return `<!DOCTYPE html>
@@ -131,11 +134,10 @@ function indexPage() {
   </style>
 </head>
 <body>
-  <h1>Presentations</h1>
-  <p class="subtitle">Teaching slides</p>
+  <h1>My Slides</h1>
 ${sections}
 </body>
-</html>`
+</html>`;
 }
 
 // ── 404 page ────────────────────────────────────────────────
@@ -154,5 +156,5 @@ function notFoundPage() {
   <h1>Page not found</h1>
   <p><a href="${esc(BASE)}">← All presentations</a></p>
 </body>
-</html>`
+</html>`;
 }
