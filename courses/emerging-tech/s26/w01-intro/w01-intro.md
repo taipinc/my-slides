@@ -43,7 +43,7 @@ layout: center
 
 ---
 layout: image-right
-image: ./images/pope.png
+image: ./images/pope.webp
 ---
 
 <v-click>
@@ -67,7 +67,7 @@ image: ./images/pope.png
 
 ---
 layout: image-right
-image: ./images/pope.png
+image: ./images/pope.webp
 ---
 
 # How does this change what we think / know about photography?

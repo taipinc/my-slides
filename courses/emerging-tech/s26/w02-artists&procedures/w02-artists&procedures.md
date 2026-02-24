@@ -36,7 +36,7 @@ image: ./images/score_0.svg
 
 ---
 layout: image-caption
-image: ./images/john-cage.jpg
+image: ./images/john-cage.webp
 ---
 **John Cage**, *Imaginary Landscape No. 4* (1951)
 
@@ -48,13 +48,13 @@ John Cage's "Imaginary Landscape no. 4" performed at DIY Space for London
 
 ---
 layout: image-caption
-image: ./images/Vito Acconci Following Piece.jpg
+image: ./images/Vito Acconci Following Piece.webp
 ---
 **Vito Acconci**, *Following Piece* (1969)
 
 ---
 layout: image-caption
-image: ./images/Vito Acconci Following Piece2.jpg
+image: ./images/Vito Acconci Following Piece2.webp
 ---
 **Vito Acconci**, *Following Piece* (1969)
 
@@ -127,13 +127,13 @@ image: ./images/Sophie-Calle-The-Address-Book-5.webp
 
 ---
 layout: image-caption
-image: ./images/Edward Ruscha1.jpg
+image: ./images/Edward Ruscha1.webp
 ---
 **Ed Ruscha**, *Every Building on the Sunset Strip* (1966)
 
 ---
 layout: image-caption
-image: ./images/Edward Ruscha2.jpg
+image: ./images/Edward Ruscha2.webp
 ---
 **Ed Ruscha**, *Every Building on the Sunset Strip* (1966)
 
@@ -157,21 +157,21 @@ LA Stories: Urbanism, Music, and AI in Ed Ruscha’s Archive
 
 ---
 layout: image-caption
-image: ./images/30819417171.jpg
+image: ./images/30819417171.webp
 ---
 
 **Marc Saporta**, *Composition No. 1* (1962)
 
 ---
 layout: image-caption
-image: ./images/30819417171_2.jpg
+image: ./images/30819417171_2.webp
 ---
 
 **Marc Saporta**, *Composition No. 1* (1962)
 
 ---
 layout: image-caption
-image: ./images/Queneau_sonnets.jpg
+image: ./images/Queneau_sonnets.webp
 ---
 
 **Raymond Queneau**, *Cent mille milliards de poèmes* (1961)
@@ -185,63 +185,63 @@ image: ./images/Synekura-Audio.webp
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjUzMDI2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjUzMDI2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Hanne Darboven**, *Construction Drawing* (1968)
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjQ3MjA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjQ3MjA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Hanne Darboven**. *2 Blatt 1-2*. 1971
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjM2NjIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjM2NjIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Hanne Darboven**. *Untitled*. 1974–75
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjg0MDYyIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d.jpg
+image: ./images/W1siZiIsIjg0MDYyIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d.webp
 ---
 
 **Hanne Darboven**. *49 x 49 (7 x 7 = 49)*. 1972-73
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjEyODUyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjEyODUyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Hanne Darboven**. *II-b*. 1970-73
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjEzNjc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjEzNjc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Hanne Darboven**. *Month III (March)*. 1974
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjEyOTcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjEyOTcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Hanne Darboven**. *Turning Point >80< (Wende >80<)*. 1980-81
 
 ---
 layout: image-caption
-image: ./images/sprueth_magers_Hanne_Darboven_Erdkunde_I_II_11737.jpg
+image: ./images/sprueth_magers_Hanne_Darboven_Erdkunde_I_II_11737.webp
 ---
 
 **Hanne Darboven**, *Erdkunde I, II, III / Geography I, II, III*, 1986
 
 ---
 layout: image-caption
-image: ./images/sprueth_magers_Hanne_Darboven_Kulturgeschichte_18801983_13410.jpg
+image: ./images/sprueth_magers_Hanne_Darboven_Kulturgeschichte_18801983_13410.webp
 ---
 
 **Hanne Darboven**, *Kulturgeschichte 1880–1983*, 1980–83
@@ -262,14 +262,14 @@ url: https://www.davidzwirner.com/artists/on-kawara/survey
 
 ---
 layout: image-caption
-image: ./images/P_2011_254_1-28_vw1_cropped.jpg
+image: ./images/P_2011_254_1-28_vw1_cropped.webp
 ---
 
 **Sol LeWitt**, *A sphere lit from the top, four sides, and all their combinations* (2004)
 
 ---
 layout: image-caption
-image: ./images/Sol LeWitt01.jpg
+image: ./images/Sol LeWitt01.webp
 ---
 
 **Sol LeWitt**, *4th wall: 24 lines from the center, 12 lines from the midpoint of each of the sides, 12 lines from each corner* (1976), from Wall Drawing #289.
@@ -289,7 +289,7 @@ url: https://whitney.org/artists/776
 
 ---
 layout: image-caption
-image: ./images/lewitt_49_instructions.jpg
+image: ./images/lewitt_49_instructions.webp
 ---
 
 **Sol LeWitt**, *Instructions for Wall Drawing No. 49* (c 1970)
@@ -314,56 +314,56 @@ Art and Computation, Miguel Carvalhais, 2022
 
 ---
 layout: image-caption
-image: ./images/Picture_produced_by_Drawing_Machine_1.jpg
+image: ./images/Picture_produced_by_Drawing_Machine_1.webp
 ---
 
 **Desmond Paul Henry**, *Picture produced by Drawing Machine No. 1*
 
 ---
 layout: image-caption
-image: ./images/Drawing_Machine_1.jpg
+image: ./images/Drawing_Machine_1.webp
 ---
 
 **Desmond Paul Henry**, *Henry's first drawing machine*
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjIxMDc3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjIxMDc3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Jean Tinguely**, *Fragment from Homage to New York* (1960)
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjM4OTEyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjM4OTEyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Jean Tinguely**, *Metamatic No. 8* (1960)
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjI3OTIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjI3OTIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Jean Tinguely**, *Metamatic No. 4* (1960)
 
 ---
 layout: image-caption
-image: ./images/W1siZiIsIjI3OTIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg
+image: ./images/W1siZiIsIjI3OTIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 ---
 
 **Jean Tinguely**, *Metamatic No. 4* (1960)
 
 ---
 layout: image-caption
-image: ./images/vem_1021_300dpi copy.jpg
+image: ./images/vem_1021_300dpi copy.webp
 ---
 
 **Vera Molnár**, *Mouvement giratoire (rouge)* (1959)
 
 ---
 layout: image-caption
-image: ./images/2011EY3129.jpg
+image: ./images/2011EY3129.webp
 ---
 
 **Vera Molnár**, *(Des)Ordres* (1974)
@@ -398,7 +398,7 @@ image: ./images/MOL-2655-scaled.webp
 
 ---
 layout: image-caption
-image: ./images/IMG_3728.jpg
+image: ./images/IMG_3728.webp
 ---
 
 **Vera Molnár**, *À la Recherche de Paul Klee (Looking for Paul Klee)* (1971)
@@ -411,7 +411,7 @@ image: ./images/lacma-coded-molnar.webp
 **Vera Molnár**, *À la Recherche de Paul Klee (Looking for Paul Klee)* (1970)
 ---
 layout: image-caption
-image: ./images/2009BX6559.jpg
+image: ./images/2009BX6559.webp
 ---
 
 **Vera Molnár**, *Letters from my Mother* (1988)
@@ -436,42 +436,42 @@ Art and Computation, Miguel Carvalhais, 2022
 
 ---
 layout: image-caption
-image: ./images/2011EY6964.jpg
+image: ./images/2011EY6964.webp
 ---
 
 **A. Michael Noll**, *Vertical-horizontal number three* (1964)
 
 ---
 layout: image-caption
-image: ./images/2017KD4657.jpg
+image: ./images/2017KD4657.webp
 ---
 
 **A. Michael Noll**, *Ninety parallel sinusoids with linearly increasing period* (1964)
 
 ---
 layout: image-caption
-image: ./images/2009BX1732.jpg
+image: ./images/2009BX1732.webp
 ---
 
 **Manfred Mohr**, *P-021* (1970-76)
 
 ---
 layout: image-caption
-image: ./images/2008BT5106.jpg
+image: ./images/2008BT5106.webp
 ---
 
 **Manfred Mohr**, *P-96 (theoretical space projection)* (1972)
 
 ---
 layout: image-caption
-image: ./images/2008BT5090.jpg
+image: ./images/2008BT5090.webp
 ---
 
 **Manfred Mohr**, *P-62 (floating points)* (1970)
 
 ---
 layout: image-caption
-image: ./images/2008BT4799.jpg
+image: ./images/2008BT4799.webp
 ---
 
 **Manfred Mohr**, *P-32 (Matrix Elements)* (1970)
@@ -485,35 +485,35 @@ url: https://collections.vam.ac.uk/item/O1242174/po32-matrix-elements-punched-ca
 
 ---
 layout: image-caption
-image: ./images/2009CD9453.jpg
+image: ./images/2009CD9453.webp
 ---
 
 **Harold Cohen**, *Untitled* (1969)
 
 ---
 layout: image-caption
-image: ./images/2009CD9439.jpg
+image: ./images/2009CD9439.webp
 ---
 
 **Harold Cohen**, *Untitled* (1969)
 
 ---
 layout: image-caption
-image: ./images/2009CD9450.jpg
+image: ./images/2009CD9450.webp
 ---
 
 **Harold Cohen**, *Print* (1971)
 
 ---
 layout: image-caption
-image: ./images/2009CD9441.jpg
+image: ./images/2009CD9441.webp
 ---
 
 **Harold Cohen**, *Drawing* (1971)
 
 ---
 layout: image-caption
-image: ./images/2009CP9286.jpg
+image: ./images/2009CP9286.webp
 ---
 
 **Harold Cohen**, *Untitled* (1972)
@@ -521,21 +521,21 @@ image: ./images/2009CP9286.jpg
 
 ---
 layout: image-caption
-image: ./images/large_RS79406_WMAA_H.-COHEN_INSTALL_14.jpg
+image: ./images/large_RS79406_WMAA_H.-COHEN_INSTALL_14.webp
 ---
 
 Installation view of Harold Cohen: AARON (Whitney Museum of American Art, 2024)
 
 ---
 layout: image-caption
-image: ./images/2009CD9440.jpg
+image: ./images/2009CD9440.webp
 ---
 
 **Harold Cohen**, *Drawing* (1974)
 
 ---
 layout: image-caption
-image: ./images/2009CD9445.jpg
+image: ./images/2009CD9445.webp
 ---
 
 **Harold Cohen**, *Amsterdam Suite D* (1977)
@@ -549,42 +549,42 @@ image: ./images/gazelliarthouse-harold-cohen-drawing-machine-turtle-1980.webp
 
 ---
 layout: image-caption
-image: ./images/2009CD9447.jpg
+image: ./images/2009CD9447.webp
 ---
 
 **Harold Cohen**, *Amsterdam Suite B* (1977)
 
 ---
 layout: image-caption
-image: ./images/2023NM0973.jpg
+image: ./images/2023NM0973.webp
 ---
 
 **Harold Cohen**, *Penny Plain Suite* (1980)
 
 ---
 layout: image-caption
-image: ./images/2009CP9275.jpg
+image: ./images/2009CP9275.webp
 ---
 
 **Harold Cohen**, *Drawing* (1982)
 
 ---
 layout: image-caption
-image: ./images/2009CD9458.jpg
+image: ./images/2009CD9458.webp
 ---
 
 **Harold Cohen**, *Drawing* (1985)
 
 ---
 layout: image-caption
-image: ./images/2009CD9488.jpg
+image: ./images/2009CD9488.webp
 ---
 
 **Harold Cohen**, *Drawing* (1986)
 
 ---
 layout: image-caption
-image: ./images/2009CD9486.jpg
+image: ./images/2009CD9486.webp
 ---
 
 **Harold Cohen**, *Drawing* (1987)

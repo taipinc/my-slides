@@ -1,5 +1,6 @@
 node_modules
 *.local.json
+docs/.build-cache.json
 .DS_Store
 dist
 *.local

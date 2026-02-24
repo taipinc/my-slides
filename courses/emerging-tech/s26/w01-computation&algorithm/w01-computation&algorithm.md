@@ -32,7 +32,7 @@ layout: intro
 
 ---
 layout: image-right
-image: ./images/BX1778_PR.png
+image: ./images/BX1778_PR.webp
 ---
 ## The Abacus
 
@@ -41,7 +41,7 @@ Near East, Europe, China, Russia
 
 ---
 layout: image-caption
-image: ./images/Abacus_actually_in_use_at_kimono_shop_in_Otaru.jpg
+image: ./images/Abacus_actually_in_use_at_kimono_shop_in_Otaru.webp
 ---
 
 Contemporary Abaci (Abacuses) in a shop in Otaru, Japan (2009)
@@ -55,21 +55,21 @@ Interactive Abacus with various bases
 
 ---
 layout: image-caption
-image: ./images/The_Ancient_Quipu_Plate_XXII.jpg
+image: ./images/The_Ancient_Quipu_Plate_XXII.webp
 ---
 
 Quipu, or Peruvian Knot-Record (Inca Empire 2600 BCE – c. 1900 CE)
 
 ---
 layout: image-caption
-image: ./images/The_Ancient_Quipu_Plate_XXIII.png
+image: ./images/The_Ancient_Quipu_Plate_XXIII.webp
 ---
 
 Quipu, or Peruvian Knot-Record (Inca Empire 2600 BCE – c. 1900 CE)
 
 ---
 layout: image-caption
-image: ./images/The_Ancient_Quipu_Plate_XXI.jpg
+image: ./images/The_Ancient_Quipu_Plate_XXI.webp
 ---
 
 Quipu, or Peruvian Knot-Record (Inca Empire 2600 BCE – c. 1900 CE)
@@ -77,36 +77,36 @@ Quipu, or Peruvian Knot-Record (Inca Empire 2600 BCE – c. 1900 CE)
 
 ---
 layout: image-caption
-image: ./images/A_khipucamayuc,_1615.jpg
+image: ./images/A_khipucamayuc,_1615.webp
 ---
 
 Sketch of a Quipucamayoc from El primer nueva corónica y buen gobierno (The First New Chronicle and Good Government), a chronicle of Inca history by the indigenous Inca historian Felipe Guaman Poma de Ayala (ca. 1535–1616). Shown on the lower left side is a yupana
 
 ---
 layout: image-caption
-image: ./images/Table_yupana.jpg
+image: ./images/Table_yupana.webp
 ---
 
 An Inca "table yupana", counting board used to perform arithmetic operations
 
 ---
 layout: image-caption
-image: ./images/3648px-Antikythera_Fragment_A_(Front).webp.png
+image: ./images/3648px-Antikythera_Fragment_A_(Front).webp
 ---
 
 The Antikythera mechanism (2nd century BC) - an ancient Greek hand-powered orrery (model of the Solar System). It is the oldest known example of an analogue computer.
 
 ---
 layout: image-caption
-image: ./images/Clock_Tower_from_Su_Song's_Book_desmear.jpeg
+image: ./images/Clock_Tower_from_Su_Song's_Book_desmear.webp
 ---
 
 The original diagram of Su Song's Cosmic Engine, 1092, hydro-mechanical astronomical clock tower
 
 ---
 layout: image-stack-right
-image1: ./images/Pascaline-CnAM_823-1-IMG_1506-black.jpg
-image2: ./images/Pascaline_-_top_view_and_mechanism.jpg
+image1: ./images/Pascaline-CnAM_823-1-IMG_1506-black.webp
+image2: ./images/Pascaline_-_top_view_and_mechanism.webp
 ---
 
 ## The Pascaline, Pascal's Calculator
@@ -114,7 +114,7 @@ Blaise Pascal, France, 1642
 
 ---
 layout: image-caption
-image: ./images/Bernegger_Manuale_136.jpg
+image: ./images/Bernegger_Manuale_136.webp
 ---
 
 **Mathematical Tables**
@@ -123,7 +123,7 @@ Pages from the "Manuale Mathematicum" from german astronomer and mathematician M
 
 ---
 layout: image
-image: ./images/Gemini_Generated_Image_9dzo299dzo299dzo.png
+image: ./images/Gemini_Generated_Image_9dzo299dzo299dzo.webp
 ---
 
 ---
@@ -146,19 +146,19 @@ A Complete Ready Reckoner, in Dollars and Cents, to which are added Forms of Not
 
 ---
 layout: image
-image: ./images/Gemini_Generated_Image_r2qfumr2qfumr2qf.png
+image: ./images/Gemini_Generated_Image_r2qfumr2qfumr2qf.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/1650-range-table-trajectories-page.jpg
+image: ./images/1650-range-table-trajectories-page.webp
 ---
 
 Range Chart Log Curve, 1943
 
 ---
 layout: image-caption
-image: ./images/Screenshot 2026-01-31 at 4.17.07 PM.png
+image: ./images/Screenshot 2026-01-31 at 4.17.07 PM.webp
 ---
 
 Range table for 3-inch field gun, *Gunnery and explosives for field artillery officers* (1911)
@@ -166,7 +166,7 @@ Range table for 3-inch field gun, *Gunnery and explosives for field artillery of
 
 ---
 layout: image
-image: ./images/Gemini_Generated_Image_kd8ni0kd8ni0kd8n.png
+image: ./images/Gemini_Generated_Image_kd8ni0kd8ni0kd8n.webp
 ---
 
 ---
@@ -179,7 +179,7 @@ Published since 1802
 
 ---
 layout: image-right
-image: ./images/na_2024.jpg
+image: ./images/na_2024.webp
 ---
 
 #### **Nautical Almanacs**
@@ -190,7 +190,7 @@ In the UK, by the His Majesty's Nautical Almanac Office, since 1767
 
 ---
 layout: image-caption
-image: ./images/Nautical_almanac_01.png
+image: ./images/Nautical_almanac_01.webp
 ---
 
 Two sample pages of the 2002 Nautical Almanac published by the U.S. Naval Observatory
@@ -207,7 +207,7 @@ layout: center
 
 ---
 layout: image-right
-image: ./images/Human_computers_-_Dryden.jpg
+image: ./images/Human_computers_-_Dryden.webp
 width: 60
 align: top
 ---
@@ -222,7 +222,7 @@ The term "computer", in use from the early 17th century, meant "one who computes
 
 ---
 layout: image-caption
-image: ./images/207469main_computers-p-163-500.jpg
+image: ./images/207469main_computers-p-163-500.webp
 ---
 
 **Computers for the Explorer 1 trajectory (1950's)**
@@ -231,7 +231,7 @@ The all-female computer team, many of the members recruited right out of high sc
 
 ---
 layout: image-right
-image: ./images/232100762.jpg
+image: ./images/232100762.webp
 width: 60
 align: top
 ---
@@ -250,21 +250,21 @@ The Difference Engine,
 
 ---
 layout: image-caption
-image: ./images/maxresdefault.jpg
+image: ./images/maxresdefault.webp
 ---
 
 Contemporary rendition of plans for the Analytical Engine
 
 ---
 layout: image-caption
-image: ./images/Babbage_Analytical_Engine_Plan_1840_CHM.agr.jpg
+image: ./images/Babbage_Analytical_Engine_Plan_1840_CHM.agr.webp
 ---
 
 Plan diagram of the analytical engine from 1840
 
 ---
 layout: image-right
-image: ./images/6749756_orig.png
+image: ./images/6749756_orig.webp
 ---
 
 ## **Turing machine**
@@ -277,7 +277,7 @@ In computability theory, a system of data-manipulation rules is said to be *Turi
 
 ---
 layout: image-right
-image: ./images/PunchedCardsAnalyticalEngine.jpg
+image: ./images/PunchedCardsAnalyticalEngine.webp
 ---
 
 Two types of punched cards used to program the machine. 
@@ -288,7 +288,7 @@ background: 'variable cards', for inputting data
 
 ---
 layout: image-right
-image: ./images/Ada_Lovelace_portrait.jpg
+image: ./images/Ada_Lovelace_portrait.webp
 ---
 
 ## Ada Lovelace
@@ -313,14 +313,14 @@ image: ./images/Ada_Lovelace_portrait.jpg
 
 ---
 layout: image-caption
-image: ./images/ada1.jpeg
+image: ./images/ada1.webp
 ---
 
 Ada Lovelace (1815-1852), *Note G* (1843)
 
 ---
 layout: image-right
-image: ./images/DMM_29263ab_Jacquardwebstuhl.jpg
+image: ./images/DMM_29263ab_Jacquardwebstuhl.webp
 ---
 
 # Jacquard Loom
@@ -331,7 +331,7 @@ Carpet loom with Jacquard apparatus by Carl Engel, around 1860
 
 ---
 layout: image-right
-image: ./images/Jacquard-cards-2.jpg
+image: ./images/Jacquard-cards-2.webp
 ---
 
 # Jacquard Loom
@@ -357,12 +357,12 @@ start: 859
 
 ---
 layout: image
-image: ./images/Screenshot 2026-02-01 at 3.14.16 PM.png
+image: ./images/Screenshot 2026-02-01 at 3.14.16 PM.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/original_90df8ff1fd557ae7c9024e1fad902017.gif
+image: ./images/original_90df8ff1fd557ae7c9024e1fad902017.webp
 scale: 50
 ---
 
@@ -370,7 +370,7 @@ Jim Campbell (2000)
 
 ---
 layout: image-right
-image: ./images/1890_Census_Hollerith_Electrical_Counting_Machines_Sci_Amer.jpg
+image: ./images/1890_Census_Hollerith_Electrical_Counting_Machines_Sci_Amer.webp
 ---
 
 # 1890 United States census
@@ -379,7 +379,7 @@ The 1890 census was the first to be compiled using methods invented by Herman Ho
 
 ---
 layout: image-right
-image: ./images/HollerithMachine.CHM.jpg
+image: ./images/HollerithMachine.CHM.webp
 ---
 
 # 1890 United States census
@@ -394,14 +394,14 @@ In 1896, Herman Hollerith incorporated the Tabulating Machine Company. In 1924, 
 
 ---
 layout: image-caption
-image: ./images/babbagedetail.jpeg
+image: ./images/babbagedetail.webp
 ---
 
 Detail of Babbage's Difference Engine
 
 ---
 layout: image-caption
-image: ./images/Delta_Electronics_DPS-350FB_A_-_board_1_-_OEG_SDT-SS-112M_-_case_removed-3045.jpg
+image: ./images/Delta_Electronics_DPS-350FB_A_-_board_1_-_OEG_SDT-SS-112M_-_case_removed-3045.webp
 scale: 80
 ---
 
@@ -416,7 +416,7 @@ Interactive Abacus with various bases
 
 ---
 layout: image-right
-image: ./images/Page_1_from_A_Symbolic_Analysis_of_Relay_and_Switching_Circuits.png
+image: ./images/Page_1_from_A_Symbolic_Analysis_of_Relay_and_Switching_Circuits.webp
 border: true
 ---
 
@@ -437,27 +437,27 @@ start: 430
 
 ---
 layout: image-caption
-image: ./images/hunky-dory-2449-001.jpg
+image: ./images/hunky-dory-2449-001.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/1-sem-of-grooves-in-lp-record-dr-tony-brainscience-photo-library.jpg
+image: ./images/1-sem-of-grooves-in-lp-record-dr-tony-brainscience-photo-library.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/Vinyl_Record_Volume_Limitaitons_Twlinch.jpg
+image: ./images/Vinyl_Record_Volume_Limitaitons_Twlinch.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/scrolling-binary-code-digital-data-stream-video.jpg
+image: ./images/scrolling-binary-code-digital-data-stream-video.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/Solton_BV60_Bassamp.jpg
+image: ./images/Solton_BV60_Bassamp.webp
 scale: 80
 ---
 
@@ -465,7 +465,7 @@ scale: 80
 
 ---
 layout: image-caption
-image: ./images/Transistors.agr.jpg
+image: ./images/Transistors.agr.webp
 scale: 80
 ---
 
@@ -473,7 +473,7 @@ scale: 80
 
 ---
 layout: image-caption
-image: ./images/1280px-NXP_PCF8577C_LCD_driver_with_I²C_(Colour_Corrected).jpg
+image: ./images/1280px-NXP_PCF8577C_LCD_driver_with_I²C_(Colour_Corrected).webp
 scale: 80
 ---
 
@@ -481,7 +481,7 @@ scale: 80
 
 ---
 layout: image-caption
-image: ./images/1920px-Intel_Xeon_3060_Conroe_(Reshoot)_-_Flickr_-_cole8888.jpg
+image: ./images/1920px-Intel_Xeon_3060_Conroe_(Reshoot)_-_Flickr_-_cole8888.webp
 scale: 80
 ---
 
@@ -489,7 +489,7 @@ scale: 80
 
 ---
 layout: image-caption
-image: ./images/Colossus.jpg
+image: ./images/Colossus.webp
 scale: 80
 ---
 
@@ -497,7 +497,7 @@ A **Colossus** Mark 2 codebreaking computer being operated by Dorothy Du Boisson
 
 ---
 layout: image-caption
-image: ./images/Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg
+image: ./images/Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.webp
 scale: 80
 ---
 
@@ -550,7 +550,7 @@ image: ./images/IMG_1752.webp
 
 ---
 layout: image-right
-image: ./images/f7ac8906-4fc7-4e28-bb9d-5c8c38e5b709.png
+image: ./images/f7ac8906-4fc7-4e28-bb9d-5c8c38e5b709.webp
 ---
 
 # What is an Algorithm?
@@ -562,7 +562,7 @@ image: ./images/f7ac8906-4fc7-4e28-bb9d-5c8c38e5b709.png
 
 ---
 layout: image-right
-image: ./images/db33956e-3d2a-4da2-a6fd-4166914cde0a.png
+image: ./images/db33956e-3d2a-4da2-a6fd-4166914cde0a.webp
 ---
 
 # What is an Algorithm?
@@ -576,7 +576,7 @@ image: ./images/db33956e-3d2a-4da2-a6fd-4166914cde0a.png
 
 ---
 layout: image-right
-image: ./images/866c672e-6211-4e71-9d70-4e4b18d93546.jpeg
+image: ./images/866c672e-6211-4e71-9d70-4e4b18d93546.webp
 ---
 
 # What is an Algorithm?
@@ -592,7 +592,7 @@ image: ./images/866c672e-6211-4e71-9d70-4e4b18d93546.jpeg
 
 ---
 layout: image-right
-image: ./images/b3ce424c-a196-48d4-b8da-7ef2719b4abb.png
+image: ./images/b3ce424c-a196-48d4-b8da-7ef2719b4abb.webp
 ---
 
 # What is an Algorithm?

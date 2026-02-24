@@ -16,6 +16,10 @@
   },
   "devDependencies": {
     "@slidev/cli": "^52.11.3",
-    "@slidev/theme-default": "latest"
+    "@slidev/theme-default": "latest",
+    "sharp": "^0.34.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["sharp"]
   }
 }
