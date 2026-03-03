@@ -35,7 +35,7 @@ layout: center
 
 ---
 layout: image-caption
-image: ./images/apple-iphone-xs-camera-layers-keynote-1.png
+image: ./images/apple-iphone-xs-camera-layers-keynote-1.webp
 ---
 
 iPhone 11 presentation – the processing pipeline of an image
@@ -54,14 +54,14 @@ Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
 
 ---
 layout: image-caption
-image: ./images/panoptic_segmentation01.png
+image: ./images/panoptic_segmentation01.webp
 ---
 
 [Panoptic Segmentation](https://arxiv.org/abs/1801.00868), 2018
 
 ---
 layout: image-caption
-image: ./images/panoptic_segmentation02.png
+image: ./images/panoptic_segmentation02.webp
 ---
 
 [Panoptic Segmentation](https://arxiv.org/abs/1801.00868), 2018
@@ -80,14 +80,14 @@ Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
 
 ---
 layout: image-caption
-image: ./images/panoptic_segmentation03.png
+image: ./images/panoptic_segmentation03.webp
 ---
 
 Apple's [On-device Panoptic Segmentation for Camera Using Transformers](https://machinelearning.apple.com/research/panoptic-segmentation), 2021
 
 ---
 layout: image-caption
-image: ./images/panoptic_segmentation04.png
+image: ./images/panoptic_segmentation04.webp
 ---
 
 [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/abs/1903.12174), 2019
@@ -106,7 +106,7 @@ Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
 
 ---
 layout: image-caption
-image: ./images/panoptic_segmentation05.png
+image: ./images/panoptic_segmentation05.webp
 ---
 
 [Mask R-CNN](https://arxiv.org/abs/1703.06870), 2017
@@ -132,19 +132,19 @@ Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
 
 ---
 layout: image-caption
-image: ./images/depth-estimation.jpg
+image: ./images/depth-estimation.webp
 ---
 
 [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://arxiv.org/abs/2410.02073)
 
 ---
 layout: image-caption
-image: ./images/portrait-mode.png
+image: ./images/portrait-mode.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/ARKitScenes01.png
+image: ./images/ARKitScenes01.webp
 ---
 
 [ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data](https://arxiv.org/abs/2111.08897), 2021
@@ -245,14 +245,14 @@ layout: center
 
 ---
 layout: image-caption
-image: ./images/BUCHANAN.jpeg
+image: ./images/BUCHANAN.webp
 ---
 
 Rule-Based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project
 
 ---
 layout: image-caption
-image: ./images/BUCHANAN2.png
+image: ./images/BUCHANAN2.webp
 ---
 
 ---
@@ -272,21 +272,21 @@ layout: center
 
 ---
 layout: image-caption
-image: ./images/McCulloch-Pitts01.png
+image: ./images/McCulloch-Pitts01.webp
 ---
 
 McCulloch and Pitts, [*A Logical Calculus of the Ideas Immanent in Nervous Activity*](https://www.cs.cmu.edu/~epxing/Class/10715/reading/McCulloch.and.Pitts.pdf) (1943)
 
 ---
 layout: image-caption
-image: ./images/McCulloch-Pitts02.png
+image: ./images/McCulloch-Pitts02.webp
 ---
 
 McCulloch and Pitts, [*How We Know Universals*](https://www.cs.cmu.edu/~epxing/Class/10715/reading/McCulloch.and.Pitts.pdf) (1947)
 
 ---
 layout: image-right
-image: ./images/RMC2008_0011.jpg
+image: ./images/RMC2008_0011.webp
 align: top
 width: 55
 ---
@@ -300,56 +300,56 @@ Buffalo, New York
 
 ---
 layout: image-caption
-image: ./images/0925_rosenblatt5.jpg
+image: ./images/0925_rosenblatt5.webp
 ---
 
 Frank Rosenblatt and the Mark I Perceptron, 1958
 
 ---
 layout: image-caption
-image: ./images/0925_rosenblatt4.jpg
+image: ./images/0925_rosenblatt4.webp
 ---
 
 An image of the perceptron from Rosenblatt's “The Design of an Intelligent Automaton,” Summer 1958.
 
 ---
 layout: image-caption
-image: ./images/perceptron-simulator.png
+image: ./images/perceptron-simulator.webp
 ---
 
 [Perceptron Simulator](https://taipinc.github.io/perceptron-simulator/)
 
 ---
 layout: image-caption
-image: ./images/NYTimes_p.png
+image: ./images/NYTimes_p.webp
 ---
 
 [NEW NAVY DEVICE LEARNS BY DOING](https://nyti.ms/3N0UoCJ), New York Times, 1958
 
 ---
 layout: image-caption
-image: ./images/Murray1.png
+image: ./images/Murray1.webp
 ---
 
 [*Perceptron Applicability to Photointerpretation*](https://hdl.handle.net/2027/coo.31924004665000), by Murray, 1960
 
 ---
 layout: image-caption
-image: ./images/Murray2.png
+image: ./images/Murray2.webp
 ---
 
 [*Perceptron Applicability to Photointerpretation*](https://hdl.handle.net/2027/coo.31924004665000), by Murray, 1960
 
 ---
 layout: image-caption
-image: ./images/Murray3.png
+image: ./images/Murray3.webp
 ---
 
 [*Perceptron Applicability to Photointerpretation*](https://hdl.handle.net/2027/coo.31924004665000), by Murray, 1960
 
 ---
 layout: image-caption
-image: ./images/Murray4.png
+image: ./images/Murray4.webp
 ---
 
 [*Perceptron Applicability to Photointerpretation*](https://hdl.handle.net/2027/coo.31924004665000), by Murray, 1960
@@ -388,7 +388,7 @@ layout: default
 
 ---
 layout: image-caption
-image: ./images/frog01.png
+image: ./images/frog01.webp
 ---
 
 *What the Frog's Eye Tells the Frog's Brain*, by Lettvin et al., 1959
@@ -397,26 +397,26 @@ A frog's retina acts as a pre-processor, sending specialized information to the 
 
 ---
 layout: image-caption
-image: ./images/frog02.png
+image: ./images/frog02.webp
 ---
 
 *What the Frog's Eye Tells the Frog's Brain*, by Lettvin et al., 1959
 
 ---
 layout: image-caption
-image: ./images/frog03.png
+image: ./images/frog03.webp
 ---
 
 *What the Frog's Eye Tells the Frog's Brain*, by Lettvin et al., 1959
 
 ---
 layout: image-caption
-image: ./images/whatthemouse.jpg
+image: ./images/whatthemouse.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/CNN1.png
+image: ./images/CNN1.webp
 ---
 
 - 1990s: Convolutional Neural Networks (CNNs) developed by Yann LeCun and others, leading to advances in image recognition. Handwritten digit recognition (MNIST dataset).
@@ -425,21 +425,21 @@ image: ./images/CNN1.png
 
 ---
 layout: image-caption
-image: ./images/CNN2.png
+image: ./images/CNN2.webp
 ---
 
 [2D convolutional network visualization](https://adamharley.com/nn_vis/cnn/2d.html)
 
 ---
 layout: image-caption
-image: ./images/CNN3.png
+image: ./images/CNN3.webp
 ---
 
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ---
 layout: image-caption
-image: ./images/CNN4.png
+image: ./images/CNN4.webp
 ---
 
 [CNN Inference Visualizer](https://huggingface.co/spaces/taipinch/cnn-visualizer)
@@ -480,7 +480,7 @@ layout: default
 
 ---
 layout: image-caption
-image: ./images/training-inference.png
+image: ./images/training-inference.webp
 ---
 - #### **Training**: The process of feeding data into a machine learning model to adjust its parameters so that it can make accurate predictions based on that data.
 <br>
@@ -497,7 +497,7 @@ start: 494
 
 ---
 layout: image-caption
-image: ./images/navigu-net.png
+image: ./images/navigu-net.webp
 ---
 
 [ImageNet](https://navigu.net/#imagenet) - a large visual database designed for use in visual object recognition research, 2006
@@ -511,7 +511,7 @@ url: https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/
 
 ---
 layout: image-caption
-image: ./images/alexnet.png
+image: ./images/alexnet.webp
 ---
 
 **AlexNet** - a deep convolutional neural network that significantly outperforms previous methods on the ImageNet challenge, sparking renewed interest in deep learning, 2012
@@ -544,14 +544,14 @@ layout: default
 
 ---
 layout: image-caption
-image: ./images/prop-open.png
+image: ./images/prop-open.webp
 ---
 
 Propeietary vs Open Source Models
 
 ---
 layout: image-caption
-image: ./images/local-cloud.png
+image: ./images/local-cloud.webp
 ---
 
 Local vs Cloud Inference
