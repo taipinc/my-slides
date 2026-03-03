@@ -22,11 +22,9 @@ layout: intro
 # Images and Computation
 
 <div class="absolute bottom-10">
-  <span class="font-700">
   
-#### Week 4
+## Week 4
 
-  </span>
 </div>
 
 ---
@@ -40,7 +38,19 @@ layout: image-caption
 image: ./images/apple-iphone-xs-camera-layers-keynote-1.png
 ---
 
-iPhone 11 presentation – the processing pipeline of an image – segmentation is what’s new.
+iPhone 11 presentation – the processing pipeline of an image
+
+---
+layout: center
+---
+
+# "... apertures on smartphones are never shut. The press of the shutter button merely brackets the range of data that was already being captured as soon as the camera app was launched."
+
+<div class="absolute bottom-10">
+
+Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
+
+</div>
 
 ---
 layout: image-caption
@@ -57,6 +67,18 @@ image: ./images/panoptic_segmentation02.png
 [Panoptic Segmentation](https://arxiv.org/abs/1801.00868), 2018
 
 ---
+layout: center
+---
+
+# ... while digital photography treats each pixel as a pixel, computational photography tries to "understand" what each pixel is. ... Computation photography uses machine learning to classify and to doctor each pixel based on training data.
+
+<div class="absolute bottom-10">
+
+Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
+
+</div>
+
+---
 layout: image-caption
 image: ./images/panoptic_segmentation03.png
 ---
@@ -69,6 +91,18 @@ image: ./images/panoptic_segmentation04.png
 ---
 
 [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/abs/1903.12174), 2019
+
+---
+layout: center
+---
+
+# With each press of the shutter, segmentation architectures in smartphones slice the world into simplified and unambiguous categories and automate the user's acceptance of these classifications...
+
+<div class="absolute bottom-10">
+
+Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
+
+</div>
 
 ---
 layout: image-caption
@@ -85,6 +119,18 @@ video: https://www.youtube.com/watch?v=17FKTw4MCZ4
 Evolved AI subject recognition & focus performance | Alpha 7R V | Sony | α
 
 ---
+layout: center
+---
+
+# The civilian media technologies we use daily—which are always becoming more convenient, precise, and predictive—tend to be the "byproduct ot waste products of pure military research".
+
+<div class="absolute bottom-10">
+
+Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
+
+</div>
+
+---
 layout: image-caption
 image: ./images/depth-estimation.jpg
 ---
@@ -93,10 +139,85 @@ image: ./images/depth-estimation.jpg
 
 ---
 layout: image-caption
+image: ./images/portrait-mode.png
+---
+
+---
+layout: image-caption
 image: ./images/ARKitScenes01.png
 ---
 
 [ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data](https://arxiv.org/abs/2111.08897), 2021
+
+---
+layout: center
+---
+
+# The consideration of computational photography requires a reorientation from the visual to the invisual, a shift away from images toward their infrastructural coupling with large-scale systems of sensing and computation.
+
+<br>
+<v-click>
+
+# Rather than locating the exercise of power at the end of the photographic process—at the moment of capture—in computational photography, molecular policing and market operations take place in the "invisible worls" of machine-machine interactions, outside of human perceptibility.
+</v-click>
+
+<div class="absolute bottom-10">
+
+Ekalan Hou, *Computational Photography: The Production of Perpetual Targets*
+
+</div>
+
+---
+layout: image-caption
+image: ./images/BX1778_PR.webp
+---
+
+## The Abacus
+
+Near East, Europe, China, Russia
+2300 BCE - and still in use
+
+---
+layout: image-right
+image: ./images/232100762.webp
+width: 60
+align: top
+---
+
+## The Difference Engine
+
+Charles Babbage, England, designed 1847-9 (built 1985-2002)
+
+---
+layout: center
+---
+
+## The history of the computer:
+<br>
+<v-click>
+
+#### Attempting to mechanize mathematical calculations,
+#### and using mathematics to represents media (images, sound, etc.)
+</v-click>
+<br>
+<br>
+<v-click>    
+
+***
+<br>
+<br>
+    
+## What if we could "mechanize" other stuff? 
+</v-click>
+<br>
+<v-clicks>
+
+- #### Knowledge
+- #### Language 
+- #### Reasoning 
+- #### Perception 
+- #### Intelligence?
+</v-clicks>
 
 ---
 layout: image-caption
@@ -317,6 +438,13 @@ image: ./images/CNN3.png
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ---
+layout: image-caption
+image: ./images/CNN4.png
+---
+
+[CNN Inference Visualizer](https://huggingface.co/spaces/taipinch/cnn-visualizer)
+
+---
 layout: video-caption
 video: https://www.youtube.com/watch?v=aircAruvnKk
 ---
@@ -389,12 +517,6 @@ image: ./images/alexnet.png
 **AlexNet** - a deep convolutional neural network that significantly outperforms previous methods on the ImageNet challenge, sparking renewed interest in deep learning, 2012
 
 ---
-
-Todo: Discuss how research datasets like ImageNet circulate into production applications, and how decisions taken in research settings (like labels) can have significant consequences down the line.
-
-
-
----
 layout: default
 ---
 
@@ -421,12 +543,6 @@ layout: default
 </v-click>
 
 ---
-
-todo: Additional terms to define:
-Model?
-Dataset?
-
----
 layout: image-caption
 image: ./images/prop-open.png
 ---
@@ -445,37 +561,14 @@ Local vs Cloud Inference
 # What needs unpacking in the next few weeks?
 
 ## Today:
+<br>
+    
 #### - Models
-
+<br>
+<br>
+    
 ## Coming up:
+<br>
+    
 #### - Datasets: the biases and limitations inherent in their use and circulation
 #### - The cloud: the implications of cloud-based training and inference
-
----
-
-todo: for this lecture:
-
-- Early 20th Century: Discussion among psychologists and neurologists about mechanisms of human vision and perception.
-- 1940s-1950s: Macy Conferences - interdisciplinary meetings on cybernetics, including discussions on perception and cognition.
-
-- 1986: Backpropagation algorithm
-
-
----
-todo: For next lecture:
-
-- 2014: Generative Adversarial Networks (GANs) introduced by Ian Goodfellow et al.
-
-- 2016: AlphaGo - a computer program that plays the board game Go, developed by DeepMind, demonstrating the power of deep learning and reinforcement learning.
-
-- 2000s: Google autocomplete - a feature that predicts search queries as users type, showcasing the application of machine learning in everyday technology. This is before transformers and leads to it?
-
-- 2017: Transformer architecture introduced by Vaswani et al., revolutionizing natural language processing and later adapted for image processing (e.g., Vision Transformers).
-
-- 2018: Google's BERT - a transformer-based model for natural language understanding, demonstrating significant improvements in various NLP tasks.
-
-- 2019: OpenAI's GPT-2 - a large transformer-based language model capable of generating coherent and contextually relevant text.
-
-- 2022: ChatGPT - a conversational AI model by OpenAI, demonstrating advanced natural language understanding and generation capabilities.
-
-- Image Generators

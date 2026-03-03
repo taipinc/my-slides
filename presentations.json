@@ -3,13 +3,19 @@
   "presentations": [
     {
       "path": "courses/emerging-tech/s26/w01-computation&algorithm/w01-computation&algorithm.md",
-      "title": "Week 1: History of Computation & Algorithm",
+      "title": "Week 2: History of Computation & Algorithm",
       "course": "Emerging Technologies",
       "semester": "S26"
     },
     {
       "path": "courses/emerging-tech/s26/w02-artists&procedures/w02-artists&procedures.md",
-      "title": "Week 2: Artists & Procedures",
+      "title": "Week 3: Artists & Procedures",
+      "course": "Emerging Technologies",
+      "semester": "S26"
+    },
+    {
+      "path": "courses/emerging-tech/s26/w03-computational-images.md/w03-computational-images.md",
+      "title": "Week 5: Computational Images",
       "course": "Emerging Technologies",
       "semester": "S26"
     }
