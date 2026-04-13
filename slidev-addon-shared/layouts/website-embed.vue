@@ -1,15 +1,17 @@
 <script setup lang="ts">
 import { useIsSlideActive } from '@slidev/client'
 
-defineProps<{
+const props = defineProps<{
   url?: string
+  background?: string
+  color?: string
 }>()
 
 const isActive = useIsSlideActive()
 </script>
 
 <template>
-  <div class="slidev-layout website-embed w-full h-full flex flex-col items-start pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden">
+  <div class="slidev-layout website-embed w-full h-full flex flex-col items-start pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden" :style="{ background: props.background, color: props.color }">
     <iframe
       v-if="url && isActive"
       :src="url"

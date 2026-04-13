@@ -5,6 +5,8 @@ import { useIsSlideActive } from '@slidev/client'
 const props = defineProps<{
   video?: string
   start?: number
+  background?: string
+  color?: string
 }>()
 
 const iframeRef = ref<HTMLIFrameElement>()
@@ -59,7 +61,7 @@ watch(isActive, (active) => {
 </script>
 
 <template>
-  <div class="slidev-layout video-caption w-full h-full flex flex-col items-start pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden">
+  <div class="slidev-layout video-caption w-full h-full flex flex-col items-start pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden" :style="{ background: props.background, color: props.color }">
     <iframe
       v-if="video && isActive"
       ref="iframeRef"

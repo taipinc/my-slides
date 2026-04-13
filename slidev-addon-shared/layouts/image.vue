@@ -4,6 +4,8 @@ import { computed } from 'vue'
 const props = withDefaults(defineProps<{
   image?: string
   scale?: number
+  background?: string
+  color?: string
 }>(), {
   scale: 100
 })
@@ -15,7 +17,7 @@ const imageStyle = computed(() => ({
 </script>
 
 <template>
-  <div class="slidev-layout w-full h-full relative flex items-center justify-center p-8">
+  <div class="slidev-layout w-full h-full relative flex items-center justify-center p-8" :style="{ background: props.background, color: props.color }">
     <img
       v-if="image"
       :src="image"

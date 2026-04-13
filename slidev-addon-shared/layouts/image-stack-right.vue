@@ -6,6 +6,8 @@ const props = defineProps<{
   image2?: string
   image3?: string
   class?: string
+  background?: string
+  color?: string
 }>()
 
 const images = computed(() => {
@@ -14,7 +16,7 @@ const images = computed(() => {
 </script>
 
 <template>
-  <div class="grid grid-cols-2 w-full h-full gap-4">
+  <div class="grid grid-cols-2 w-full h-full gap-4" :style="{ background: props.background, color: props.color }">
     <div class="slidev-layout default pr-8" :class="props.class">
       <slot />
     </div>

@@ -5,6 +5,8 @@ const props = withDefaults(defineProps<{
   image?: string
   scale?: number
   border?: boolean
+  background?: string
+  color?: string
 }>(), {
   scale: 100,
   border: false
@@ -75,7 +77,7 @@ function updatePan(e: MouseEvent) {
 </script>
 
 <template>
-  <div class="slidev-layout image-caption w-full h-full flex flex-col items-center pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden">
+  <div class="slidev-layout image-caption w-full h-full flex flex-col items-center pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden" :style="{ background, color }">
     <div class="flex-1 min-h-0 w-full flex items-center justify-center">
       <video
         v-if="image && isVideo"

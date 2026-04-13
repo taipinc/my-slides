@@ -7,6 +7,8 @@ const props = withDefaults(defineProps<{
   align?: 'top' | 'center' | 'bottom'
   width?: number
   border?: boolean
+  background?: string
+  color?: string
 }>(), {
   width: 50,
   border: false
@@ -34,7 +36,7 @@ const gridStyle = computed(() => {
 </script>
 
 <template>
-  <div class="grid w-full h-full gap-4" :style="gridStyle">
+  <div class="grid w-full h-full gap-4" :style="[gridStyle, { background: props.background, color: props.color }]">
     <div class="slidev-layout default pr-8" :class="$props.class">
       <slot />
     </div>
