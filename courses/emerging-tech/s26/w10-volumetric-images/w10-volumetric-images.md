@@ -69,53 +69,53 @@ layout: intro
 
 ---
 layout: image-caption
-image: ./images/Charles_Wheatstone-mirror_stereoscope_XIXc.jpg
+image: ./images/Charles_Wheatstone-mirror_stereoscope_XIXc.webp
 ---
 
 Wheatstone mirror stereoscope, 1838, Lonodon
 
 ---
 layout: image-caption
-image: ./images/CW1fig13.png
+image: ./images/CW1fig13.webp
 ---
 
 Fig. 13. A cube.
 
 ---
 layout: image-caption
-image: ./images/CW1fig15.png
+image: ./images/CW1fig15.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/CW1fig16.png
+image: ./images/CW1fig16.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/CW1fig17.png
+image: ./images/CW1fig17.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/CW1fig19-1024x558.png
+image: ./images/CW1fig19-1024x558.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/CW1fig20.jpg
+image: ./images/CW1fig20.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/Wheatstone_stereogram.jpg
+image: ./images/Wheatstone_stereogram.webp
 ---
 
 Wheatstone's line stereogram, 1838
 
 ---
 layout: image-caption
-image: ./images/DP75392.jpg
+image: ./images/DP75392.webp
 ---
 
 From '[Group of 17 Early Calotype Stereograph Views](
@@ -123,86 +123,86 @@ https://www.metmuseum.org/art/collection/search/288151)', 1840s–50s, Albumen s
 
 ---
 layout: image-caption
-image: ./images/DP274710.jpg
+image: ./images/DP274710.webp
 ---
 
 '[E. & H.T. Anthony Stereoscopic Emporium](https://www.metmuseum.org/art/collection/search/692531)', Bierstadt Brothers, Glass stereographs, 1850s–00s
 
 ---
 layout: image-caption
-image: ./images/DP-15364-001.jpg
+image: ./images/DP-15364-001.webp
 ---
 
 '[Stereographic View of Two Nude Women](https://www.metmuseum.org/art/collection/search/282209)', unknown French photographer, 1840s, Daguerreotype, Metropolitan Museum of Art
 
 ---
 layout: image-caption
-image: ./images/DP72328.jpg
+image: ./images/DP72328.webp
 ---
 
 From '[Group of 14 stereographs of Africa and Actors](https://www.metmuseum.org/art/collection/search/288103)', Keystone View Company, 1850s–1910s
 
 ---
 layout: image-caption
-image: ./images/DP272315.jpg
+image: ./images/DP272315.webp
 ---
 
 [Covered Ways inside the Rebel Fort Mahone, Called by the Soldiers "Fort Damnation," Petersburgh, Virginia](https://www.metmuseum.org/art/collection/search/302364), E. & H. T. Anthony, 1865
 
 ---
 layout: image-caption
-image: ./images/_The_lights_are_out_and_gone_are_all_the_guests._.gif
+image: ./images/_The_lights_are_out_and_gone_are_all_the_guests._.webp
 ---
 
 '[The lights are out and gone are all the guests.](https://commons.wikimedia.org/wiki/File:%22The_lights_are_out_and_gone_are_all_the_guests.%22.gif)' Published: Littleton, N.H. : B.W. Kilburn, c1897
 
 ---
 layout: image-caption
-image: ./images/_There's_no_place_like_home._.gif
+image: ./images/_There's_no_place_like_home._.webp
 ---
 
 '[There's no place like home.](https://commons.wikimedia.org/wiki/File:%22There%27s_no_place_like_home.%22.gif)' Published: Littleton, N.H.. : B.W. Kilburn, c1899
 
 ---
 layout: image-caption
-image: ./images/irish.gif
+image: ./images/irish.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/stereo01.png
+image: ./images/stereo01.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/stereo02.png
+image: ./images/stereo02.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/stereo03.png
+image: ./images/stereo03.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/stereo04.png
+image: ./images/stereo04.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/stereo05.png
+image: ./images/stereo05.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/Stereograph_as_an_educator.jpg
+image: ./images/Stereograph_as_an_educator.webp
 ---
 
 '[The stereograph as an educator - Underwood patent extension cabinet in a home library](https://commons.wikimedia.org/wiki/File:Stereograph_as_an_educator.jpg)', 1901
 
 ---
 layout: image-caption
-image: ./images/August_Fuhrmann-Kaiserpanorama_1880.jpg
+image: ./images/August_Fuhrmann-Kaiserpanorama_1880.webp
 ---
 
 '[A drawing of a Kaiserpanorama with 25 viewing stations](https://en.wikipedia.org/wiki/Kaiserpanorama#/media/File:August_Fuhrmann-Kaiserpanorama_1880.jpg)', August Fuhrmann, 1880
@@ -259,42 +259,42 @@ image: ./images/MREL-S55-_1_1000x.webp
 
 ---
 layout: image-caption
-image: ./images/Tru-Vue_Chicagoland.jpg
+image: ./images/Tru-Vue_Chicagoland.webp
 ---
 
 [Tru-Vue Chicagoland model 3D viewer](https://commons.wikimedia.org/wiki/File:Tru-Vue_Chicagoland.jpg), 1950s
 
 ---
 layout: image-caption
-image: ./images/View-Master_Model_F_01.jpg
+image: ./images/View-Master_Model_F_01.webp
 ---
 
 [View-Master Model F](https://commons.wikimedia.org/wiki/File:View-Master_Model_F_01.jpg), 1958
 
 ---
 layout: image-caption
-image: ./images/View_Master_Stereo_Camera_front_-_square_crop.jpg
+image: ./images/View_Master_Stereo_Camera_front_-_square_crop.webp
 ---
 
 [The View-Master Personal stereo camera](https://commons.wikimedia.org/wiki/File:View_Master_Stereo_Camera_front_-_square_crop.jpg), 1952
 
 ---
 layout: image-caption
-image: ./images/Vmcambka.jpg
+image: ./images/Vmcambka.webp
 ---
 
 [The View-Master Personal stereo camera, rear view with back open, showing film chamber](https://commons.wikimedia.org/wiki/File:Vmcambka.jpg), 1952
 
 ---
 layout: image-caption
-image: ./images/Vmcamstrip.jpg
+image: ./images/Vmcamstrip.webp
 ---
 
 [Image strip from a View-Master Personal camera](https://commons.wikimedia.org/wiki/File:Vmcamstrip.jpg), 1952
 
 ---
 <!--layout: image-caption
-image: ./images/Stereograph_as_an_educator_-_anaglyph.jpg-->
+image: ./images/Stereograph_as_an_educator_-_anaglyph.webp-->
 layout: website-embed
 url: https://taipinc.github.io/anaglyph-sync/?image=Stereograph_as_an_educator_-_anaglyph.jpg&rGain=1.000&rBright=0.0&rContrast=1.000&cGain=0.500&cBright=24.0&cContrast=1.000&rBleed=0.0000&cBleed=0.0000&bg=ffffff
 ---
@@ -303,7 +303,7 @@ url: https://taipinc.github.io/anaglyph-sync/?image=Stereograph_as_an_educator_-
 
 ---
 layout: image-caption
-image: ./images/Anaglyph_glasses.png
+image: ./images/Anaglyph_glasses.webp
 ---
 
 ---
@@ -315,7 +315,7 @@ National Geographic August 1998 (Vol. 194, No. 2)
 
 ---
 layout: image-caption
-image: ./images/PIA21706.jpg
+image: ./images/PIA21706.webp
 background: black
 color: white
 ---
@@ -324,7 +324,7 @@ color: white
 
 ---
 layout: image-caption
-image: ./images/PIA19678.jpg
+image: ./images/PIA19678.webp
 background: '#4E4E4E'
 color: white
 ---
@@ -333,7 +333,7 @@ color: white
 
 ---
 layout: image-caption
-image: ./images/PIA21265.jpg
+image: ./images/PIA21265.webp
 background: black
 color: white
 ---
@@ -342,7 +342,7 @@ color: white
 
 ---
 layout: image-caption
-image: ./images/PIA20889.jpg
+image: ./images/PIA20889.webp
 background: black
 color: white
 ---
@@ -351,108 +351,108 @@ color: white
 
 ---
 layout: image-caption
-image: ./images/000235-Stereoscope.jpg
+image: ./images/000235-Stereoscope.webp
 ---
 
 [Manufactured by Q-O-S Corporation, New York for the U.S. Army Corp of Engineers](https://www.usgs.gov/media/images/stereoscope)
 
 ---
 layout: image-caption
-image: ./images/large_000000.jpg
+image: ./images/large_000000.webp
 ---
 
 [Pair of aerial cameras on the Mackenzie stereo fitting mounted on a scarff ring](https://www.iwm.org.uk/collections/item/object/205069375), 1917
 
 ---
 layout: image-caption
-image: ./images/RG142_Quad150_001.jpg
+image: ./images/RG142_Quad150_001.webp
 ---
 
 [Aerial Photography Index for Quadrangle 150](https://catalog.archives.gov/id/167222101), 1937, US National Archives
 
 ---
 layout: image-caption
-image: ./images/stereo-aerial2.png
+image: ./images/stereo-aerial2.webp
 ---
 
 [Interpretation of aerial photographs](https://archive.org/details/interpretationof0000aver/), Thomas Eugene Avery, 1985
 
 ---
 layout: image-caption
-image: ./images/stereo-aerial.png
+image: ./images/stereo-aerial.webp
 ---
 
 [Interpretation of aerial photographs](https://archive.org/details/interpretationof0000aver/), Thomas Eugene Avery, 1985
 
 ---
 layout: image-caption
-image: ./images/kelsh1.png
+image: ./images/kelsh1.webp
 ---
 
 Kelsh Projection Stereoplotter (1960)
 
 ---
 layout: image-caption
-image: ./images/kelsh2.png
+image: ./images/kelsh2.webp
 ---
 
 Kelsh Projection Stereoplotter (1960)
 
 ---
 layout: image-caption
-image: ./images/kelsh3.png
+image: ./images/kelsh3.webp
 ---
 
 Kelsh Projection Stereoplotter (1960)
 
 ---
 layout: image-caption
-image: ./images/kelsh4.png
+image: ./images/kelsh4.webp
 ---
 
 Kelsh Projection Stereoplotter (1960)
 
 ---
 layout: image-caption
-image: ./images/484489712_618162324352613_3027590535697350003_n.jpg
+image: ./images/484489712_618162324352613_3027590535697350003_n.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/483366329_618162327685946_4431606049056123103_n.jpg
+image: ./images/483366329_618162327685946_4431606049056123103_n.webp
 ---
 
 ---
 layout: image-caption
-image: ./images/jones-fig-10-scaled.jpg
+image: ./images/jones-fig-10-scaled.webp
 ---
 
 [Albrecht Meydenbauer, photograms 1–3 of the Meißener Dom](https://drawingmatter.org/the-art-of-measuring-images-albrecht-meydenbauer-and-the-invention-of-the-photographic-survey/), cross-referenced to Figs 9 and 11. From Albrecht Grimm, 120 Jahre Photogrammetrie in Deutschland, vol.2 (Munich: R. Oldenbourg Verlag, 1977), 45.
 
 ---
 layout: image-caption
-image: ./images/BP49-4-RPS.jpeg
+image: ./images/BP49-4-RPS.webp
 ---
 
 La métrophotographie, Aime Laussedat, 1899
 
 ---
 layout: image-caption
-image: ./images/BP49-4-RPS1.jpeg
+image: ./images/BP49-4-RPS1.webp
 ---
 
 La métrophotographie, Aime Laussedat, 1899
 
 ---
 layout: image-caption
-image: ./images/BP49-4-RPS2.jpeg
+image: ./images/BP49-4-RPS2.webp
 ---
 
 La métrophotographie, Aime Laussedat, 1899
 
 ---
 layout: image-caption
-image: ./images/gram.png
+image: ./images/gram.webp
 ---
 
 Le procédé photogrammétrique Meydenbauer, Bulletin de la Société vaudoise des ingénieurs et des architectes, 1898
