@@ -317,6 +317,7 @@ for (const pres of toBuild) {
 // ── always regenerate index + 404 from the full manifest ───
 writeFileSync(resolve(DOCS, "index.html"), indexPage());
 writeFileSync(resolve(DOCS, "404.html"), notFoundPage());
+writeFileSync(resolve(DOCS, ".nojekyll"), "");
 console.log("\n✓ docs/ is ready – commit and push to deploy\n");
 
 // ── HTML helpers ────────────────────────────────────────────
