@@ -7,6 +7,7 @@ const props = defineProps<{
   start?: number
   background?: string
   color?: string
+  padding?: 'normal' | 'minimal'
 }>()
 
 const iframeRef = ref<HTMLIFrameElement>()
@@ -61,7 +62,15 @@ watch(isActive, (active) => {
 </script>
 
 <template>
-  <div class="slidev-layout video-caption w-full h-full flex flex-col items-start pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden" :style="{ background: props.background, color: props.color }">
+  <div
+    class="slidev-layout video-caption w-full h-full flex flex-col items-start pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden"
+    :style="{
+      background: props.background,
+      color: props.color,
+      padding: props.padding === 'minimal' ? '1rem 1rem 0.75rem' : undefined,
+      gap: props.padding === 'minimal' ? '0.75rem' : undefined,
+    }"
+  >
     <iframe
       v-if="video && isActive"
       ref="iframeRef"
@@ -72,7 +81,7 @@ watch(isActive, (active) => {
       allowfullscreen
     />
 
-    <div class="text-sm flex-shrink-0 [&>p]:m-0">
+    <div class="text-sm leading-[1.4] flex-shrink-0 [&>p]:m-0">
       <slot />
     </div>
   </div>

@@ -11,6 +11,9 @@ importers:
       '@slidev/theme-apple-basic':
         specifier: ^0.25.1
         version: 0.25.1
+      '@slidev/theme-basic-bold':
+        specifier: link:./theme-basic-bold
+        version: link:theme-basic-bold
       '@slidev/theme-seriph':
         specifier: latest
         version: 0.25.0

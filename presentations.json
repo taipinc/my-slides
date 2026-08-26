@@ -30,6 +30,24 @@
       "title": "Week 10: Volumetric Images",
       "course": "Emerging Technologies",
       "semester": "S26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w01-into/w01-intro.md",
+      "title": "Week 1: Course Introduction",
+      "course": "Core Lab 1",
+      "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w01-exposure/w01-exposure.md",
+      "title": "Week 1: Photographic Exposure",
+      "course": "Core Lab 1",
+      "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w01-canon-r/w01-canon-r.md",
+      "title": "Week 1: Using the Canon EOS R",
+      "course": "Core Lab 1",
+      "semester": "F26"
     }
   ]
 }

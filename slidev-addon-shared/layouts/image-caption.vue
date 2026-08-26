@@ -7,6 +7,7 @@ const props = withDefaults(defineProps<{
   border?: boolean
   background?: string
   color?: string
+  padding?: 'normal' | 'minimal'
 }>(), {
   scale: 100,
   border: false
@@ -16,6 +17,15 @@ const imageStyle = computed(() => ({
   width: `${props.scale}%`,
   height: `${props.scale}%`
 }))
+
+const textColor = computed(() => {
+  if (props.color)
+    return props.color
+
+  return props.background?.trim().toLowerCase() === 'black'
+    ? 'rgba(255, 255, 255, 0.75)'
+    : undefined
+})
 
 const isVideo = computed(() => {
   if (!props.image) return false
@@ -77,7 +87,15 @@ function updatePan(e: MouseEvent) {
 </script>
 
 <template>
-  <div class="slidev-layout image-caption w-full h-full flex flex-col items-center pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden" :style="{ background, color }">
+  <div
+    class="slidev-layout image-caption w-full h-full flex flex-col items-center pt-[5%] px-[5%] pb-[2.5%] gap-4 overflow-hidden"
+    :style="{
+      background,
+      color: textColor,
+      padding: props.padding === 'minimal' ? '1rem 1rem 0.75rem' : undefined,
+      gap: props.padding === 'minimal' ? '0.75rem' : undefined,
+    }"
+  >
     <div class="flex-1 min-h-0 w-full flex items-center justify-center">
       <video
         v-if="image && isVideo"
@@ -101,7 +119,7 @@ function updatePan(e: MouseEvent) {
       />
     </div>
 
-    <div class="text-sm flex-shrink-0 self-start text-left [&>p]:m-0">
+    <div class="text-sm leading-[1.4] flex-shrink-0 self-start text-left [&>p]:m-0">
       <slot />
     </div>
 

@@ -1,0 +1,25 @@
+{
+  "name": "@slidev/theme-basic-bold",
+  "version": "0.1.0",
+  "description": "A bold display-type variation of Slidev's Apple Basic theme",
+  "license": "MIT",
+  "keywords": ["slidev-theme", "slidev"],
+  "engines": {
+    "node": ">=14.0.0",
+    "slidev": ">=0.47.0"
+  },
+  "slidev": {
+    "defaults": {
+      "fonts": {
+        "local": "Helvetica Neue",
+        "sans": "Helvetica Neue",
+        "weights": "200,400,600,800"
+      }
+    }
+  },
+  "dependencies": {
+    "@slidev/types": "^0.47.0",
+    "codemirror-theme-vars": "^0.1.2",
+    "prism-theme-vars": "^0.2.4"
+  }
+}
