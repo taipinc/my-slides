@@ -48,6 +48,24 @@
       "title": "Week 1: Using the Canon EOS R",
       "course": "Core Lab 1",
       "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w02-digital-images/w02-digital-images.md",
+      "title": "Week 2: Specs of Digital Images",
+      "course": "Core Lab 1",
+      "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w02-optics/w02-optics.md",
+      "title": "Week 2: Optics",
+      "course": "Core Lab 1",
+      "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w02-proximities/w02-proximities.md",
+      "title": "Week 2: Proximities",
+      "course": "Core Lab 1",
+      "semester": "F26"
     }
   ]
 }

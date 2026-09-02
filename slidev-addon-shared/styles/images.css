@@ -1,0 +1,73 @@
+/* Keep images on default slides within the space left by other content. */
+.slidev-layout.default:has(img) {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* SlideFooter is absolutely positioned, so reserve its space when present. */
+.slidev-layout.default:has(img):has(.slide-footer),
+.slidev-layout.two-columns:has(img):has(.slide-footer) {
+  padding-bottom: 4rem;
+}
+
+.slidev-layout.default > img,
+.slidev-layout.default > p:has(> img) {
+  flex: 1 1 0;
+  min-height: 0;
+}
+
+/* Markdown may wrap adjacent text, a <br>, and an <img> in one paragraph. */
+.slidev-layout.default > p:has(> img) {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+}
+
+.slidev-layout.default > img,
+.slidev-layout.default > p:has(> img) > img {
+  flex: 1 1 0;
+  min-height: 0;
+  width: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  align-self: center;
+}
+
+/* Make images in either half of a two-column slide fit its available space. */
+.slidev-layout.two-columns > .col-left:has(img),
+.slidev-layout.two-columns > .col-right:has(img) {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.slidev-layout.two-columns > .col-left > img,
+.slidev-layout.two-columns > .col-right > img,
+.slidev-layout.two-columns > .col-left > p:has(> img),
+.slidev-layout.two-columns > .col-right > p:has(> img) {
+  flex: 1 1 0;
+  min-height: 0;
+}
+
+.slidev-layout.two-columns > .col-left > p:has(> img),
+.slidev-layout.two-columns > .col-right > p:has(> img) {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+}
+
+.slidev-layout.two-columns > .col-left > img,
+.slidev-layout.two-columns > .col-right > img,
+.slidev-layout.two-columns > .col-left > p:has(> img) > img,
+.slidev-layout.two-columns > .col-right > p:has(> img) > img {
+  flex: 1 1 0;
+  min-height: 0;
+  width: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  align-self: center;
+}
