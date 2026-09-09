@@ -51,17 +51,17 @@ Formed in Palestine-Israel, 2005
 
 ---
 layout: image
-image: ./images/Activestills/activestills06.png
+image: ./images/Activestills/activestills06.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills02.png
+image: ./images/Activestills/activestills02.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills04.png
+image: ./images/Activestills/activestills04.webp
 ---
 
 ---
@@ -79,37 +79,37 @@ of their work."
 
 ---
 layout: image
-image: ./images/Activestills/activestills05.png
+image: ./images/Activestills/activestills05.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills01.png
+image: ./images/Activestills/activestills01.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills03.png
+image: ./images/Activestills/activestills03.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills07.png
+image: ./images/Activestills/activestills07.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills08.png
+image: ./images/Activestills/activestills08.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills09.png
+image: ./images/Activestills/activestills09.webp
 ---
 
 ---
 layout: image
-image: ./images/Activestills/activestills09.png
+image: ./images/Activestills/activestills09.webp
 ---
 
 ---
@@ -120,46 +120,46 @@ layout: center
 
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_01.jpeg
+image: ./images/Kratsman/Kratsman_01.webp
 ---
 
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_02.jpeg
+image: ./images/Kratsman/Kratsman_02.webp
 ---
 
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_03.jpeg
+image: ./images/Kratsman/Kratsman_03.webp
 ---
 
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_04.jpg
+image: ./images/Kratsman/Kratsman_04.webp
 ---
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_05.jpg
+image: ./images/Kratsman/Kratsman_05.webp
 ---
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_06.jpg
+image: ./images/Kratsman/Kratsman_06.webp
 ---
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_07.jpg
+image: ./images/Kratsman/Kratsman_07.webp
 ---
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_08.jpg
+image: ./images/Kratsman/Kratsman_08.webp
 ---
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_09.jpg
+image: ./images/Kratsman/Kratsman_09.webp
 ---
 ---
 layout: image
-image: ./images/Kratsman/Kratsman_10.jpg
+image: ./images/Kratsman/Kratsman_10.webp
 ---
 
 ---
@@ -171,35 +171,35 @@ layout: center
 
 ---
 layout: image
-image: ./images/Paglen/Paglen_01.jpg
+image: ./images/Paglen/Paglen_01.webp
 ---
 ---
 layout: image
-image: ./images/Paglen/Paglen_02.jpg
+image: ./images/Paglen/Paglen_02.webp
 ---
 ---
 layout: image
-image: ./images/Paglen/Paglen_03.jpg
+image: ./images/Paglen/Paglen_03.webp
 ---
 ---
 layout: image
-image: ./images/Paglen/Paglen_04.jpg
+image: ./images/Paglen/Paglen_04.webp
 ---
 ---
 layout: image
-image: ./images/Paglen/Paglen_05.jpg
+image: ./images/Paglen/Paglen_05.webp
 ---
 ---
 layout: image
-image: ./images/Paglen/Paglen_06.jpg
+image: ./images/Paglen/Paglen_06.webp
 ---
 ---
 layout: image
-image: ./images/Paglen/Paglen_07.jpg
+image: ./images/Paglen/Paglen_07.webp
 ---
 ---
 layout: image
-image: ./images/Paglen/Paglen_08.jpg
+image: ./images/Paglen/Paglen_08.webp
 ---
 ---
 layout: image
@@ -219,159 +219,159 @@ layout: center
 
 ---
 layout: image
-image: ./images/Ruff/Ruff_01.jpg
+image: ./images/Ruff/Ruff_01.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_02.jpg
+image: ./images/Ruff/Ruff_02.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_03.jpg
+image: ./images/Ruff/Ruff_03.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_04.jpg
+image: ./images/Ruff/Ruff_04.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_05.jpg
+image: ./images/Ruff/Ruff_05.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_06.jpg
+image: ./images/Ruff/Ruff_06.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_07.jpg
+image: ./images/Ruff/Ruff_07.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_08.jpg
+image: ./images/Ruff/Ruff_08.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_09.jpg
+image: ./images/Ruff/Ruff_09.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_10.jpg
+image: ./images/Ruff/Ruff_10.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_11.jpg
+image: ./images/Ruff/Ruff_11.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_12.jpg
+image: ./images/Ruff/Ruff_12.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_13.jpg
+image: ./images/Ruff/Ruff_13.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_14.jpg
+image: ./images/Ruff/Ruff_14.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_15.jpg
+image: ./images/Ruff/Ruff_15.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_16.jpg
+image: ./images/Ruff/Ruff_16.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_17.jpg
+image: ./images/Ruff/Ruff_17.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_18.jpg
+image: ./images/Ruff/Ruff_18.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_19.jpg
+image: ./images/Ruff/Ruff_19.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_20.jpg
+image: ./images/Ruff/Ruff_20.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_21.jpg
+image: ./images/Ruff/Ruff_21.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_22.jpg
+image: ./images/Ruff/Ruff_22.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_23.jpg
+image: ./images/Ruff/Ruff_23.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_24.jpg
+image: ./images/Ruff/Ruff_24.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_25.jpg
+image: ./images/Ruff/Ruff_25.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_26.jpg
+image: ./images/Ruff/Ruff_26.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_27.jpg
+image: ./images/Ruff/Ruff_27.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_28.jpg
+image: ./images/Ruff/Ruff_28.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_29.jpg
+image: ./images/Ruff/Ruff_29.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_30.jpg
+image: ./images/Ruff/Ruff_30.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_31.jpg
+image: ./images/Ruff/Ruff_31.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_32.jpg
+image: ./images/Ruff/Ruff_32.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_33.jpg
+image: ./images/Ruff/Ruff_33.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_34.jpg
+image: ./images/Ruff/Ruff_34.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_35.jpg
+image: ./images/Ruff/Ruff_35.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_36.jpg
+image: ./images/Ruff/Ruff_36.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_37.jpg
+image: ./images/Ruff/Ruff_37.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_38.jpg
+image: ./images/Ruff/Ruff_38.webp
 ---
 ---
 layout: image
-image: ./images/Ruff/Ruff_39.jpg
+image: ./images/Ruff/Ruff_39.webp
 ---
 
 ---
@@ -384,51 +384,51 @@ layout: center
 
 ---
 layout: image
-image: ./images/Lawson/Lawson_01.jpeg
+image: ./images/Lawson/Lawson_01.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_02.jpeg
+image: ./images/Lawson/Lawson_02.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_03.jpeg
+image: ./images/Lawson/Lawson_03.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_04.jpg
+image: ./images/Lawson/Lawson_04.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_05.jpeg
+image: ./images/Lawson/Lawson_05.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_06.jpeg
+image: ./images/Lawson/Lawson_06.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_07.jpeg
+image: ./images/Lawson/Lawson_07.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_08.jpeg
+image: ./images/Lawson/Lawson_08.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_09.jpeg
+image: ./images/Lawson/Lawson_09.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_10.jpeg
+image: ./images/Lawson/Lawson_10.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_11.jpeg
+image: ./images/Lawson/Lawson_11.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_12.jpeg
+image: ./images/Lawson/Lawson_12.webp
 ---
 ---
 layout: image
@@ -436,15 +436,15 @@ image: ./images/Lawson/Lawson_13.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_14.jpg
+image: ./images/Lawson/Lawson_14.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_15.jpg
+image: ./images/Lawson/Lawson_15.webp
 ---
 ---
 layout: image
-image: ./images/Lawson/Lawson_17.jpg
+image: ./images/Lawson/Lawson_17.webp
 ---
 
 ---
@@ -457,83 +457,83 @@ layout: center
 
 ---
 layout: image
-image: ./images/Sultan/Sultan_01.jpg
+image: ./images/Sultan/Sultan_01.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_02.jpg
+image: ./images/Sultan/Sultan_02.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_03.jpg
+image: ./images/Sultan/Sultan_03.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_04.jpg
+image: ./images/Sultan/Sultan_04.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_05.jpg
+image: ./images/Sultan/Sultan_05.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_06.jpg
+image: ./images/Sultan/Sultan_06.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_07.jpg
+image: ./images/Sultan/Sultan_07.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_08.jpg
+image: ./images/Sultan/Sultan_08.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_09.jpg
+image: ./images/Sultan/Sultan_09.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_10.jpg
+image: ./images/Sultan/Sultan_10.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_11.jpg
+image: ./images/Sultan/Sultan_11.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_12.jpg
+image: ./images/Sultan/Sultan_12.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_13.jpg
+image: ./images/Sultan/Sultan_13.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_14.jpg
+image: ./images/Sultan/Sultan_14.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_15.jpg
+image: ./images/Sultan/Sultan_15.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_16.jpg
+image: ./images/Sultan/Sultan_16.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_17.jpg
+image: ./images/Sultan/Sultan_17.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_18.jpg
+image: ./images/Sultan/Sultan_18.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_19.jpg
+image: ./images/Sultan/Sultan_19.webp
 ---
 ---
 layout: image
-image: ./images/Sultan/Sultan_20.jpg
+image: ./images/Sultan/Sultan_20.webp
 ---
 
 ---
@@ -546,120 +546,120 @@ layout: center
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_01.jpg
+image: ./images/Goldin/Goldin_01.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_02.jpg
+image: ./images/Goldin/Goldin_02.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_03.jpg
+image: ./images/Goldin/Goldin_03.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_04.jpg
+image: ./images/Goldin/Goldin_04.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_05.jpg
+image: ./images/Goldin/Goldin_05.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_06.jpg
+image: ./images/Goldin/Goldin_06.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_07.jpg
+image: ./images/Goldin/Goldin_07.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_08.jpg
+image: ./images/Goldin/Goldin_08.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_09.jpg
+image: ./images/Goldin/Goldin_09.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_10.jpg
+image: ./images/Goldin/Goldin_10.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_11.jpg
+image: ./images/Goldin/Goldin_11.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_12.jpg
+image: ./images/Goldin/Goldin_12.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_13.jpg
+image: ./images/Goldin/Goldin_13.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_14.jpg
+image: ./images/Goldin/Goldin_14.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_15.jpg
+image: ./images/Goldin/Goldin_15.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_16.jpg
+image: ./images/Goldin/Goldin_16.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_17.jpg
+image: ./images/Goldin/Goldin_17.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_18.jpg
+image: ./images/Goldin/Goldin_18.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_19.jpg
+image: ./images/Goldin/Goldin_19.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_20.jpg
+image: ./images/Goldin/Goldin_20.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_21.jpg
+image: ./images/Goldin/Goldin_21.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_22.jpg
+image: ./images/Goldin/Goldin_22.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_23.jpg
+image: ./images/Goldin/Goldin_23.webp
 ---
 
 ---
 layout: image
-image: ./images/Goldin/Goldin_24.jpg
+image: ./images/Goldin/Goldin_24.webp
 ---

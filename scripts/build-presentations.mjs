@@ -11,9 +11,10 @@
  * Output goes to docs/.  Commit that folder and push – GitHub Pages serves it.
  *
  * Image optimisation (runs before each build, idempotent):
- *   – Raster images (.jpg, .jpeg, .png, .gif, .webp) in each presentation's
- *     images/ directory are converted to WebP (quality 82) and resized to a
- *     max dimension of 2880px (2× retina of the 1440 canvas width).
+ *   – Raster images (.jpg, .jpeg, .png, .gif, .webp) anywhere below each
+ *     presentation's images/ directory are converted to WebP (quality 82)
+ *     and resized to a max dimension of 2880px (2× retina of the 1440 canvas
+ *     width).
  *   – Non-raster files (.mp4, .mov, .svg, …) are left untouched.
  *   – Already-processed images are tracked in images/.optimized.json (a small
  *     sidecar committed alongside your images).  A file is re-processed only
@@ -96,12 +97,26 @@ function fileHash(filePath) {
   return createHash("sha256").update(readFileSync(filePath)).digest("hex");
 }
 
+function listFiles(dir, relativeDir = "") {
+  const files = [];
+  for (const entry of readdirSync(join(dir, relativeDir), { withFileTypes: true })) {
+    const relativePath = join(relativeDir, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...listFiles(dir, relativePath));
+    } else if (entry.isFile()) {
+      files.push(relativePath);
+    }
+  }
+  return files;
+}
+
 /**
- * Optimise all raster images in <presDir>/images/:
+ * Optimise all raster images in <presDir>/images/ and its subdirectories:
  *   – Convert non-WebP rasters to .webp (quality 82, max 2880px)
  *   – Resize existing .webp files that exceed MAX_DIMENSION
  *   – Update ./images/… references inside the .md file when filenames change
- *   – Record processed files in images/.optimized.json (sidecar)
+ *   – Record processed files in images/.optimized.json (sidecar), using paths
+ *     relative to images/ for nested files
  */
 async function optimizeImages(presPath) {
   const presDir = resolve(ROOT, dirname(presPath));
@@ -125,9 +140,9 @@ async function optimizeImages(presPath) {
   let mdContent = readFileSync(mdPath, "utf8");
   let mdChanged = false;
 
-  const files = readdirSync(imagesDir).filter((f) => f !== SIDECAR_NAME);
+  const files = listFiles(imagesDir).filter((f) => f !== SIDECAR_NAME);
 
-  // Build a set of existing filenames for recovery detection
+  // Build a set of existing relative filenames for recovery detection
   const existingFiles = new Set(files);
 
   for (const filename of files) {
@@ -147,7 +162,7 @@ async function optimizeImages(presPath) {
       const nameWithoutExt = basename(filename, ".webp");
       // Update refs for any original-extension variant that no longer exists
       for (const origExt of [".jpg", ".jpeg", ".png", ".gif"]) {
-        const origFilename = nameWithoutExt + origExt;
+        const origFilename = join(dirname(filename), nameWithoutExt + origExt);
         if (!existingFiles.has(origFilename)) {
           const escapedOrig = origFilename.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
           const refRegex = new RegExp(`(images/)${escapedOrig}`, "g");
@@ -170,7 +185,7 @@ async function optimizeImages(presPath) {
     if (nameWithoutExt.toLowerCase().endsWith(".webp")) {
       nameWithoutExt = nameWithoutExt.slice(0, -5);
     }
-    const destFilename = `${nameWithoutExt}.webp`;
+    const destFilename = join(dirname(filename), `${nameWithoutExt}.webp`);
     const destPath = join(imagesDir, destFilename);
 
     process.stdout.write(`  img  ${filename}`);
@@ -254,12 +269,10 @@ function hashPresentation(presPath) {
   hash.update(readFileSync(mdAbs));
   const imagesDir = resolve(ROOT, dirname(presPath), "images");
   if (existsSync(imagesDir)) {
-    for (const f of readdirSync(imagesDir).sort()) {
+    for (const f of listFiles(imagesDir).sort()) {
       const fp = join(imagesDir, f);
-      if (statSync(fp).isFile()) {
-        hash.update(f);
-        hash.update(readFileSync(fp));
-      }
+      hash.update(f);
+      hash.update(readFileSync(fp));
     }
   }
   return hash.digest("hex");
