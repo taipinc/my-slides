@@ -17,6 +17,12 @@ importers:
       '@slidev/theme-seriph':
         specifier: latest
         version: 0.25.0
+      codemirror-theme-vars:
+        specifier: ^0.1.2
+        version: 0.1.2
+      prism-theme-vars:
+        specifier: ^0.2.4
+        version: 0.2.5
       slidev-addon-tldraw:
         specifier: ^0.5.1
         version: 0.5.1(@nuxt/kit@3.20.2)(@vue/compiler-sfc@3.5.27)(markdown-it-async@2.2.0)(postcss@8.5.6)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(vite@7.3.1(@types/node@22.19.7)(jiti@2.6.1)(yaml@2.8.2))(vue@3.5.27(typescript@5.9.3))

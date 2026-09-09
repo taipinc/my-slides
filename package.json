@@ -12,6 +12,8 @@
     "@slidev/theme-apple-basic": "^0.25.1",
     "@slidev/theme-basic-bold": "link:./theme-basic-bold",
     "@slidev/theme-seriph": "latest",
+    "codemirror-theme-vars": "^0.1.2",
+    "prism-theme-vars": "^0.2.4",
     "slidev-addon-tldraw": "^0.5.1",
     "vue": "^3.5.26"
   },

@@ -4,7 +4,7 @@ colorSchema: light
 addons:
   - ../../../slidev-addon-shared
 # background: https://cover.sli.dev
-title: Photo Processes - Emerging Technologies
+title: Core Lab 1 - Digital Practices
 drawings:
   persist: false
 # transition: fade
