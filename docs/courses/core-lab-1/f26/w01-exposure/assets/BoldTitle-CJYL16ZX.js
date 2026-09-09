@@ -1,1 +1,0 @@
-import{f as t,o,j as s}from"./modules/vue-pFi9Zb0l.js";import{K as r}from"./index-NXoGmBI-.js";const l={class:"bold-title"},i={__name:"BoldTitle",setup(a){return r(),(e,n)=>(o(),t("h1",l,[s(e.$slots,"default")]))}};export{i as _};

@@ -34,7 +34,7 @@ layout: intro
 
 ---
 layout: image
-image: ./images/Boulevard_du_Temple_by_Daguerre.jpg
+image: ./images/Boulevard_du_Temple_by_Daguerre.webp
 ---
 
 Louis Daguerre, Boulevard du Temple, 1837 or 1838, daguerreotype
@@ -49,147 +49,147 @@ layout: center
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_01.jpeg
+image: ./images/Paul-Fusco/Fusco_01.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_02.jpeg
+image: ./images/Paul-Fusco/Fusco_02.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_03.jpeg
+image: ./images/Paul-Fusco/Fusco_03.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_04.jpeg
+image: ./images/Paul-Fusco/Fusco_04.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_05.jpeg
+image: ./images/Paul-Fusco/Fusco_05.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_06.jpeg
+image: ./images/Paul-Fusco/Fusco_06.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_07.jpeg
+image: ./images/Paul-Fusco/Fusco_07.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_08.jpeg
+image: ./images/Paul-Fusco/Fusco_08.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_09.jpeg
+image: ./images/Paul-Fusco/Fusco_09.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_10.jpeg
+image: ./images/Paul-Fusco/Fusco_10.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_11.jpeg
+image: ./images/Paul-Fusco/Fusco_11.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_12.jpeg
+image: ./images/Paul-Fusco/Fusco_12.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_13.jpeg
+image: ./images/Paul-Fusco/Fusco_13.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_14.jpeg
+image: ./images/Paul-Fusco/Fusco_14.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_15.jpeg
+image: ./images/Paul-Fusco/Fusco_15.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_16.jpeg
+image: ./images/Paul-Fusco/Fusco_16.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_17.jpeg
+image: ./images/Paul-Fusco/Fusco_17.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_18.jpeg
+image: ./images/Paul-Fusco/Fusco_18.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_19.jpeg
+image: ./images/Paul-Fusco/Fusco_19.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_20.jpeg
+image: ./images/Paul-Fusco/Fusco_20.webp
 ---
 
 Paul Fusco, 1968
 
 ---
 layout: image
-image: ./images/Paul-Fusco/Fusco_21.jpeg
+image: ./images/Paul-Fusco/Fusco_21.webp
 ---
 
 Paul Fusco, 1968
@@ -323,7 +323,7 @@ Alexey Titarenko, City of Shadows, 1991-1994
 
 ---
 layout: image
-image: ./images/DP265281.jpg
+image: ./images/DP265281.webp
 ---
 
 Union Soldier Holding Rifle, with Photographer's Posing Stand, 1861-65
@@ -337,112 +337,112 @@ layout: center
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_01.jpg
+image: ./images/Cameron/Cameron_01.webp
 ---
 
 Julia Margaret Cameron, Contemplations, 1864
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_02.jpg
+image: ./images/Cameron/Cameron_02.webp
 ---
 
 Julia Margaret Cameron, Daughters of Jerusalem, 1865
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_03.jpg
+image: ./images/Cameron/Cameron_03.webp
 ---
 
 Julia Margaret Cameron, Déjatch Alámayou, King Theodore's Son, 1868
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_04.jpg
+image: ./images/Cameron/Cameron_04.webp
 ---
 
 Julia Margaret Cameron, Lionel Tennyson, Freshwater, 1869
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_05.jpg
+image: ./images/Cameron/Cameron_05.webp
 ---
 
 Julia Margaret Cameron, A Study, 1865-66
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_06.jpg
+image: ./images/Cameron/Cameron_06.webp
 ---
 
 Julia Margaret Cameron, Charles Hay Cameron, Esq., in His Garden at Freshwater, 1865-67
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_07.jpg
+image: ./images/Cameron/Cameron_07.webp
 ---
 
 Julia Margaret Cameron, Henry Taylor, 1867
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_08.jpg
+image: ./images/Cameron/Cameron_08.webp
 ---
 
 Julia Margaret Cameron, Thomas Carlyle, 1867
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_09.jpg
+image: ./images/Cameron/Cameron_09.webp
 ---
 
 Julia Margaret Cameron, The Madonna Penserosa, 1864
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_10.jpg
+image: ./images/Cameron/Cameron_10.webp
 ---
 
 Julia Margaret Cameron, Lord Justice James, 1868-72
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_11.jpg
+image: ./images/Cameron/Cameron_11.webp
 ---
 
 Julia Margaret Cameron, Thomas Carlyle, 1867
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_12.jpg
+image: ./images/Cameron/Cameron_12.webp
 ---
 
 Julia Margaret Cameron, Sir John Herschel, 1867
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_13.jpg
+image: ./images/Cameron/Cameron_13.webp
 ---
 
 Julia Margaret Cameron, English Blossoms, 1873
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_14.jpg
+image: ./images/Cameron/Cameron_14.webp
 ---
 
 Julia Margaret Cameron, Mary Ryan, 1865-66
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_15.jpg
+image: ./images/Cameron/Cameron_15.webp
 ---
 
 Julia Margaret Cameron, Christabel, 1866
 
 ---
 layout: image
-image: ./images/Cameron/Cameron_16.jpg
+image: ./images/Cameron/Cameron_16.webp
 ---
 
 Julia Margaret Cameron, Henry Taylor. Author of "Philip Van Artevelde", 1864
@@ -584,56 +584,56 @@ layout: center
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_01.jpg
+image: ./images/Wesely/Wesely_01.webp
 ---
 
 Michael Wesely, Central Park, New York (18.10.2002–18.10.2003)
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_02.jpg
+image: ./images/Wesely/Wesely_02.webp
 ---
 
 Michael Wesely, Leipziger Platz, Berlin (6.8.1999–6.12.2000)
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_03.jpg
+image: ./images/Wesely/Wesely_03.webp
 ---
 
 Michael Wesely, Pinakothek der Moderne, München (8.1.1998–16.9.2002)
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_04.jpg
+image: ./images/Wesely/Wesely_04.webp
 ---
 
 Michael Wesely, Stilleben (2.4.-12.4.2024)
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_05.jpg
+image: ./images/Wesely/Wesely_05.webp
 ---
 
 Michael Wesely, Der Großleuthener See (23.4. 2005–23.4.2006)
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_06.jpg
+image: ./images/Wesely/Wesely_06.webp
 ---
 
 Michael Wesely, Potsdamer Platz und Leipziger Platz, Berlin (20.4.2004–12.1.2006)
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_07.jpg
+image: ./images/Wesely/Wesely_07.webp
 ---
 
 Michael Wesely, Senefelder Platz, Berlin (9.5.2006–16.10.2007)
 
 ---
 layout: image
-image: ./images/Wesely/Wesely_08.jpg
+image: ./images/Wesely/Wesely_08.webp
 ---
 
 Michael Wesely, Flughafen Tempelhof, Berlin (1.7.2008–1.7.2009)
@@ -648,7 +648,7 @@ layout: center
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_01.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_01.webp
 background: '#f1f0eb'
 ---
 
@@ -656,79 +656,79 @@ Uta Barth, Untitled (98.1) 1998 Chromogenic prints in artist frame; Diptych, 41 
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_02.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_02.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_03.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_03.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_04.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_04.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_05.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_05.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_06.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_06.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_07.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_07.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_08.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_08.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_09.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_09.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_10.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_10.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_11.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_11.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_12.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_12.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_13.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_13.webp
 background: '#f1f0eb'
 ---
 
 ---
 layout: image
-image: ./images/Barth/Untitled-98-20/Barth-98_14.jpg
+image: ./images/Barth/Untitled-98-20/Barth-98_14.webp
 background: '#f1f0eb'
 ---
 
@@ -742,14 +742,14 @@ layout: center
 
 ---
 layout: image
-image: ./images/Adams/Adams_01.jpg
+image: ./images/Adams/Adams_01.webp
 ---
 
 Ansel Adams, Fence, Half-Moon Bay, 1931
 
 ---
 layout: image
-image: ./images/Adams/Adams_02.jpg
+image: ./images/Adams/Adams_02.webp
 ---
 
 Ansel Adams
@@ -760,7 +760,7 @@ c. 1931
 
 ---
 layout: image
-image: ./images/Adams/Adams_03.jpg
+image: ./images/Adams/Adams_03.webp
 ---
 
 Ansel Adams
@@ -771,7 +771,7 @@ The Golden Gate, San Francisco
 
 ---
 layout: image
-image: ./images/Adams/Adams_04.jpg
+image: ./images/Adams/Adams_04.webp
 ---
 
 Ansel Adams
@@ -782,7 +782,7 @@ New Mexico
 
 ---
 layout: image
-image: ./images/Adams/Adams_05.jpg
+image: ./images/Adams/Adams_05.webp
 ---
 
 
@@ -794,7 +794,7 @@ Museum Storeroom
 
 ---
 layout: image
-image: ./images/Adams/Adams_06.jpg
+image: ./images/Adams/Adams_06.webp
 ---
 
 Ansel Adams
@@ -805,7 +805,7 @@ Barn, Redwood City, California
 
 ---
 layout: image
-image: ./images/Adams/Adams_07.jpg
+image: ./images/Adams/Adams_07.webp
 ---
 
 Ansel Adams
@@ -816,7 +816,7 @@ Rear of Ranchos Church
 
 ---
 layout: image
-image: ./images/Adams/Adams_08.jpg
+image: ./images/Adams/Adams_08.webp
 ---
 
 Ansel Adams
@@ -827,7 +827,7 @@ Barn Fence, Cape Cod
 
 ---
 layout: image
-image: ./images/Adams/Adams_09.jpg
+image: ./images/Adams/Adams_09.webp
 ---
 
 Ansel Adams
@@ -838,7 +838,7 @@ Stump and Barn, Bolinas, California
 
 ---
 layout: image
-image: ./images/Adams/Adams_10.jpg
+image: ./images/Adams/Adams_10.webp
 ---
 
 Ansel Adams
@@ -849,7 +849,7 @@ Moonrise, Hernandez, New Mexico
 
 ---
 layout: image
-image: ./images/Adams/Adams_11.jpg
+image: ./images/Adams/Adams_11.webp
 ---
 
 Ansel Adams
@@ -874,7 +874,7 @@ layout: center
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_01.jpg
+image: ./images/Noskowiak/Noskowiak_01.webp
 ---
 Sonya Noskowiak
 Gate
@@ -882,7 +882,7 @@ Gate
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_02.jpg
+image: ./images/Noskowiak/Noskowiak_02.webp
 ---
 
 Sonya Noskowiak
@@ -891,7 +891,7 @@ Oil Tanks, Richmond, California
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_03.jpg
+image: ./images/Noskowiak/Noskowiak_03.webp
 ---
 
 Sonya Noskowiak
@@ -900,7 +900,7 @@ Old Telegraph Hill Houses, San Francisco, California
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_04.jpg
+image: ./images/Noskowiak/Noskowiak_04.webp
 ---
 
 Sonya Noskowiak
@@ -909,7 +909,7 @@ Deserted Buildings, Mendocino
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_05.jpg
+image: ./images/Noskowiak/Noskowiak_05.webp
 ---
 
 Sonya Noskowiak
@@ -917,7 +917,7 @@ Rusty Saws, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_06.jpg
+image: ./images/Noskowiak/Noskowiak_06.webp
 ---
 
 Sonya Noskowiak
@@ -925,7 +925,7 @@ Worker's Hands, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_07.jpg
+image: ./images/Noskowiak/Noskowiak_07.webp
 ---
 
 Sonya Noskowiak
@@ -933,7 +933,7 @@ Landscape, Skyline Boulevard, San Francisco, California, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_08.jpg
+image: ./images/Noskowiak/Noskowiak_08.webp
 ---
 
 Sonya Noskowiak
@@ -941,7 +941,7 @@ Cabbage Field, Skyline Boulevard, San Francisco, California, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_09.jpg
+image: ./images/Noskowiak/Noskowiak_09.webp
 ---
 
 Sonya Noskowiak
@@ -949,7 +949,7 @@ Industrial Section, San Francisco, California, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_10.jpg
+image: ./images/Noskowiak/Noskowiak_10.webp
 ---
 
 Sonya Noskowiak
@@ -957,7 +957,7 @@ Garbage Pits, ca. 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_11.jpg
+image: ./images/Noskowiak/Noskowiak_11.webp
 ---
 
 Sonya Noskowiak
@@ -965,7 +965,7 @@ Facade, Mendocino, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_12.jpg
+image: ./images/Noskowiak/Noskowiak_12.webp
 ---
 
 Sonya Noskowiak
@@ -973,7 +973,7 @@ Buildings, Mendocino, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_13.jpg
+image: ./images/Noskowiak/Noskowiak_13.webp
 ---
 
 Sonya Noskowiak
@@ -981,7 +981,7 @@ From Mission Street, San Francisco, California, 1938
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_14.jpg
+image: ./images/Noskowiak/Noskowiak_14.webp
 ---
 
 Sonya Noskowiak
@@ -989,7 +989,7 @@ South San Francisco, California, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_15.jpg
+image: ./images/Noskowiak/Noskowiak_15.webp
 ---
 
 Sonya Noskowiak
@@ -997,7 +997,7 @@ Lumber Yard, 1936
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_16.jpg
+image: ./images/Noskowiak/Noskowiak_16.webp
 ---
 
 Sonya Noskowiak
@@ -1005,7 +1005,7 @@ Young Orchard, Carmel, California, 1938
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_17.jpg
+image: ./images/Noskowiak/Noskowiak_17.webp
 ---
 
 Sonya Noskowiak
@@ -1013,7 +1013,7 @@ House at Mendocino City, California, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_18.jpg
+image: ./images/Noskowiak/Noskowiak_18.webp
 ---
 
 Sonya Noskowiak
@@ -1021,7 +1021,7 @@ Landscape, Skyline Boulevard, San Francisco, California, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_19.jpg
+image: ./images/Noskowiak/Noskowiak_19.webp
 ---
 
 Sonya Noskowiak
@@ -1029,7 +1029,7 @@ Industrial Section, San Francisco, California, 1937
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_20.jpg
+image: ./images/Noskowiak/Noskowiak_20.webp
 ---
 
 Sonya Noskowiak
@@ -1037,7 +1037,7 @@ Bridge Approach, San Francisco, California, 1938
 
 ---
 layout: image
-image: ./images/Noskowiak/Noskowiak_21.jpg
+image: ./images/Noskowiak/Noskowiak_21.webp
 ---
 
 Sonya Noskowiak
@@ -1052,119 +1052,119 @@ American, born 1947
 
 ---
 layout: image
-image: ./images/Shore/Shore_01.jpg
+image: ./images/Shore/Shore_01.webp
 ---
 
 Room 125, Westbank Motel, Idaho Falls, Idaho, July 18, 1973
 
 ---
 layout: image
-image: ./images/Shore/Shore_02.jpg
+image: ./images/Shore/Shore_02.webp
 ---
 
 Slot Car Raceway, Fourth Street, Harrisburg, Pennsylvania, July 4, 1973
 
 ---
 layout: image
-image: ./images/Shore/Shore_03.jpg
+image: ./images/Shore/Shore_03.webp
 ---
 
 South of Klamath Falls, U.S. 97, Oregon, July 21, 1973
 
 ---
 layout: image
-image: ./images/Shore/Shore_04.jpg
+image: ./images/Shore/Shore_04.webp
 ---
 
 Sha-Mar Beauty Salon, Chestnut Street, Harrisburg, Pennsylvania, July 4, 1973
 
 ---
 layout: image
-image: ./images/Shore/Shore_05.jpg
+image: ./images/Shore/Shore_05.webp
 ---
 
 West Fifteenth Street and Vine Street, Cincinnati, Ohio, May 15, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_06.jpg
+image: ./images/Shore/Shore_06.webp
 ---
 
 Natural Bridge, New York, July 31, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_07.jpg
+image: ./images/Shore/Shore_07.webp
 ---
 
 Bridge Street, Mexico, Maine, July 30, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_08.jpg
+image: ./images/Shore/Shore_08.webp
 ---
 
 Holden Street, North Adams, Massachusetts, July 13, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_09.jpg
+image: ./images/Shore/Shore_09.webp
 ---
 
 Lookout Hotel, Ogunquit, Maine, July 16, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_10.jpg
+image: ./images/Shore/Shore_10.webp
 ---
 
 Broad Street, Regina, Saskatchewan, August 17, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_11.jpg
+image: ./images/Shore/Shore_11.webp
 ---
 
 Michael and Sandy Marsh, Amarillo, Texas, September 27, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_12.jpg
+image: ./images/Shore/Shore_12.webp
 ---
 
 Fifth Street and Broadway, Eureka, California, September 2, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_13.jpg
+image: ./images/Shore/Shore_13.webp
 ---
 
 Thirty-First Avenue and Crescent Street, Queens, New York, October 28, 1974
 
 ---
 layout: image
-image: ./images/Shore/Shore_14.jpg
+image: ./images/Shore/Shore_14.webp
 ---
 
 Beverly Boulevard and La Brea Avenue, Los Angeles, California, June 21, 1975
 
 ---
 layout: image
-image: ./images/Shore/Shore_15.jpg
+image: ./images/Shore/Shore_15.webp
 ---
 
 Beverly Boulevard and La Brea Avenue, Los Angeles, California, June 21, 1975
 
 ---
 layout: image
-image: ./images/Shore/Shore_16.jpg
+image: ./images/Shore/Shore_16.webp
 ---
 
 Perrine, Florida, November 11, 1977
 
 ---
 layout: image
-image: ./images/Shore/Shore_17.jpg
+image: ./images/Shore/Shore_17.webp
 ---
 
 Merced River, Yosemite National Park, California, August 13, 1979

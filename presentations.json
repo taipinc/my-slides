@@ -66,6 +66,18 @@
       "title": "Week 2: Proximities",
       "course": "Core Lab 1",
       "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w03-isolation-integration/w03-isolation-integration.md",
+      "title": "Week 3: Registration and Isolation",
+      "course": "Core Lab 1",
+      "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w03-shutter-aperture/w03-shutter-aperture.md",
+      "title": "Week 3: Shutter & Aperture",
+      "course": "Core Lab 1",
+      "semester": "F26"
     }
   ]
 }
