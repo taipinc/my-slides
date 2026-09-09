@@ -342,6 +342,14 @@ function esc(s) {
     .replace(/"/g, "&quot;");
 }
 
+function slug(s) {
+  return String(s)
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
 // ── index page ──────────────────────────────────────────────
 function indexPage() {
   // group: course → semester → [presentation]
@@ -353,17 +361,26 @@ function indexPage() {
 
   let sections = "";
   for (const [course, semesters] of Object.entries(tree).sort()) {
-    let semBlocks = "";
-    for (const [sem, list] of Object.entries(semesters).sort()) {
+    const coursePresentation = Object.values(semesters)[0][0];
+    const courseSlug = coursePresentation.path.split("/")[1] || slug(course);
+    const courseId = `course-${courseSlug}`;
+    let tabs = "";
+    let panels = "";
+    for (const [sem, list] of Object.entries(semesters).sort().reverse()) {
+      const semesterSlug = slug(sem);
+      const tabId = `${courseId}-tab-${semesterSlug}`;
+      const panelId = `${courseId}-panel-${semesterSlug}`;
       const links = list
         .map((p) => {
           const href = esc(BASE + dirname(p.path) + "/");
-          return `      <li><a href="${href}">${esc(p.title)}</a></li>`;
+          return `          <li><a href="${href}">${esc(p.title)}</a></li>`;
         })
         .join("\n");
-      semBlocks += `    <h3>${esc(sem)}</h3>\n    <ul>\n${links}\n    </ul>\n`;
+
+      tabs += `        <button class="semester-tab" id="${tabId}" type="button" role="tab" aria-controls="${panelId}" aria-selected="false" data-semester="${semesterSlug}">${esc(sem)}</button>\n`;
+      panels += `      <div class="semester-panel" id="${panelId}" role="tabpanel" aria-labelledby="${tabId}">\n        <ul>\n${links}\n        </ul>\n        <button class="copy-url" type="button" data-semester="${semesterSlug}" aria-live="polite">Copy URL</button>\n      </div>\n`;
     }
-    sections += `  <section class="course">\n    <h2>${esc(course)}</h2>\n${semBlocks}  </section>\n`;
+    sections += `  <section class="course" data-course="${courseSlug}">\n    <h2>\n      <button class="course-toggle" type="button" aria-expanded="false" aria-controls="${courseId}-content">\n        <span>${esc(course)}</span>\n        <span class="disclosure" aria-hidden="true">+</span>\n      </button>\n    </h2>\n    <div class="course-panel" id="${courseId}-content" hidden>\n      <div class="semester-tabs" role="tablist" aria-label="${esc(course)} semesters">\n${tabs}      </div>\n${panels}    </div>\n  </section>\n`;
   }
 
   return `<!DOCTYPE html>
@@ -371,45 +388,219 @@ function indexPage() {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Presentations</title>
+  <title>My Slides — Shabtai Pinchevsky</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; }
     body {
       font-family: system-ui, -apple-system, sans-serif;
-      max-width: 680px;
+      max-width: 720px;
       margin: 0 auto;
       padding: 3.5rem 1.5rem;
       color: #1e293b;
       line-height: 1.6;
     }
-    h1 { font-size: 1.75rem; font-weight: 700; margin-bottom: 0.25rem; }
-    .subtitle { color: #64748b; margin-bottom: 2.5rem; font-size: 0.95rem; }
-    .course { margin-bottom: 2rem; }
-    h2 {
+    header { margin-bottom: 2.5rem; }
+    h1 { font-size: 1.75rem; font-weight: 700; margin: 0; }
+    .subtitle {
+      color: #64748b;
+      font-size: 0.95rem;
+      font-weight: 400;
+      line-height: 1.45;
+      margin: 0.35rem 0 0;
+    }
+    .course { border-top: 1px solid #e2e8f0; }
+    .course:last-of-type { border-bottom: 1px solid #e2e8f0; }
+    h2 { margin: 0; }
+    .course-toggle {
+      align-items: center;
+      appearance: none;
+      background: transparent;
+      border: 0;
+      color: #334155;
+      cursor: pointer;
+      display: flex;
+      font: inherit;
       font-size: 1.15rem;
       font-weight: 600;
-      color: #334155;
-      border-bottom: 2px solid #e2e8f0;
-      padding-bottom: 0.35rem;
-      margin: 0 0 0.6rem;
+      justify-content: space-between;
+      padding: 1rem 0;
+      text-align: left;
+      width: 100%;
     }
-    h3 {
+    .course-toggle:hover { color: #2563eb; }
+    .disclosure { color: #94a3b8; font-size: 1.35rem; font-weight: 400; }
+    .course-panel { padding: 0 0 1.5rem; }
+    .semester-tabs {
+      display: flex;
+      gap: 1.25rem;
+      margin: 0.1rem 0 0.75rem;
+    }
+    .semester-tab {
+      appearance: none;
+      background: transparent;
+      border: 0;
+      color: #94a3b8;
+      cursor: pointer;
+      font: inherit;
       font-size: 0.78rem;
       font-weight: 600;
-      text-transform: uppercase;
       letter-spacing: 0.07em;
-      color: #94a3b8;
-      margin: 1rem 0 0.4rem;
+      padding: 0;
+      text-transform: uppercase;
     }
+    .semester-tab:hover,
+    .semester-tab[aria-selected="true"] { color: #334155; }
+    .course-toggle:focus-visible,
+    .semester-tab:focus-visible,
+    .copy-url:focus-visible,
+    a:focus-visible { outline: 2px solid #2563eb; outline-offset: 3px; }
+    .semester-panel[hidden],
+    .course-panel[hidden] { display: none; }
     ul { list-style: none; padding: 0; margin: 0; }
     li { margin: 0.3rem 0; }
     a { color: #2563eb; text-decoration: none; }
     a:hover { text-decoration: underline; }
+    .copy-url {
+      appearance: none;
+      background: transparent;
+      border: 0;
+      color: #94a3b8;
+      cursor: pointer;
+      font: inherit;
+      font-size: 0.75rem;
+      margin-top: 1rem;
+      padding: 0;
+    }
+    .copy-url:hover { color: #334155; }
+    @media (max-width: 480px) {
+      body { padding: 2.5rem 1.25rem; }
+      header { margin-bottom: 2rem; }
+    }
   </style>
 </head>
 <body>
-  <h1>My Slides</h1>
+  <header>
+    <h1>My Slides</h1>
+    <p class="subtitle">Shabtai Pinchevsky, Assistant Professor of Photography, Parsons School of Design, The New School</p>
+  </header>
 ${sections}
+  <script>
+    (() => {
+      const courses = [...document.querySelectorAll('[data-course]')];
+
+      function updateUrl(course, semester) {
+        const url = new URL(window.location.href);
+        if (course) url.searchParams.set('course', course.dataset.course);
+        else url.searchParams.delete('course');
+        if (semester) url.searchParams.set('semester', semester);
+        else url.searchParams.delete('semester');
+        history.pushState({}, '', url);
+      }
+
+      function selectSemester(course, requestedSemester, syncUrl = false) {
+        const tabs = [...course.querySelectorAll('[role="tab"]')];
+        const selected = tabs.find((tab) => tab.dataset.semester === requestedSemester) || tabs[0];
+        if (!selected) return;
+
+        for (const tab of tabs) {
+          const isSelected = tab === selected;
+          tab.setAttribute('aria-selected', String(isSelected));
+          tab.tabIndex = isSelected ? 0 : -1;
+          document.getElementById(tab.getAttribute('aria-controls')).hidden = !isSelected;
+        }
+
+        if (syncUrl) updateUrl(course, selected.dataset.semester);
+      }
+
+      function setOpenCourse(course, requestedSemester, syncUrl = false) {
+        for (const item of courses) {
+          const isOpen = item === course;
+          const toggle = item.querySelector('.course-toggle');
+          toggle.setAttribute('aria-expanded', String(isOpen));
+          toggle.querySelector('.disclosure').textContent = isOpen ? '−' : '+';
+          document.getElementById(toggle.getAttribute('aria-controls')).hidden = !isOpen;
+        }
+
+        selectSemester(course, requestedSemester, false);
+        const selected = course.querySelector('[role="tab"][aria-selected="true"]');
+        if (syncUrl) updateUrl(course, selected?.dataset.semester);
+      }
+
+      function closeCourses(syncUrl = false) {
+        for (const course of courses) {
+          const toggle = course.querySelector('.course-toggle');
+          toggle.setAttribute('aria-expanded', 'false');
+          toggle.querySelector('.disclosure').textContent = '+';
+          document.getElementById(toggle.getAttribute('aria-controls')).hidden = true;
+        }
+        if (syncUrl) updateUrl(null, null);
+      }
+
+      for (const course of courses) {
+        const toggle = course.querySelector('.course-toggle');
+        toggle.addEventListener('click', () => {
+          if (toggle.getAttribute('aria-expanded') === 'true') {
+            closeCourses(true);
+            return;
+          }
+          const selected = course.querySelector('[role="tab"][aria-selected="true"]');
+          setOpenCourse(course, selected?.dataset.semester, true);
+        });
+
+        const tabs = [...course.querySelectorAll('[role="tab"]')];
+        for (const [index, tab] of tabs.entries()) {
+          tab.addEventListener('click', () => selectSemester(course, tab.dataset.semester, true));
+          tab.addEventListener('keydown', (event) => {
+            let nextIndex;
+            if (event.key === 'ArrowRight') nextIndex = (index + 1) % tabs.length;
+            if (event.key === 'ArrowLeft') nextIndex = (index - 1 + tabs.length) % tabs.length;
+            if (event.key === 'Home') nextIndex = 0;
+            if (event.key === 'End') nextIndex = tabs.length - 1;
+            if (nextIndex === undefined) return;
+            event.preventDefault();
+            const nextTab = tabs[nextIndex];
+            selectSemester(course, nextTab.dataset.semester, true);
+            nextTab.focus();
+          });
+        }
+
+        for (const button of course.querySelectorAll('.copy-url')) {
+          button.addEventListener('click', async () => {
+            const url = new URL(window.location.href);
+            url.searchParams.set('course', course.dataset.course);
+            url.searchParams.set('semester', button.dataset.semester);
+
+            try {
+              await navigator.clipboard.writeText(url.toString());
+            } catch {
+              const textarea = document.createElement('textarea');
+              textarea.value = url.toString();
+              textarea.style.position = 'fixed';
+              textarea.style.opacity = '0';
+              document.body.append(textarea);
+              textarea.select();
+              document.execCommand('copy');
+              textarea.remove();
+            }
+
+            button.textContent = 'Copied';
+            window.setTimeout(() => { button.textContent = 'Copy URL'; }, 1600);
+          });
+        }
+      }
+
+      function applyUrlState() {
+        const params = new URLSearchParams(window.location.search);
+        const requestedCourse = (params.get('course') || '').toLowerCase();
+        const requestedSemester = (params.get('semester') || '').toLowerCase();
+        const course = courses.find((item) => item.dataset.course === requestedCourse) || courses[0];
+        if (course) setOpenCourse(course, requestedSemester, false);
+      }
+
+      window.addEventListener('popstate', applyUrlState);
+      applyUrlState();
+    })();
+  </script>
 </body>
 </html>`;
 }
