@@ -78,6 +78,12 @@
       "title": "Week 3: Shutter & Aperture",
       "course": "Core Lab 1",
       "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w08-colors/w08-colors.md",
+      "title": "Week 8: Color Management",
+      "course": "Core Lab 1",
+      "semester": "F26"
     }
   ]
 }
