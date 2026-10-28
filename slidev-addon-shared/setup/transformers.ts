@@ -16,7 +16,8 @@ function replaceAsciiArrows(context: MarkdownTransformContext) {
         const inlineSection = inlineSections[inlineIndex]
 
         if (inlineIndex % 2 === 0) {
-          for (const match of inlineSection.matchAll(/->/g))
+          // Leave HTML comment closers (-->) intact.
+          for (const match of inlineSection.matchAll(/(?<!-)->/g))
             context.s.overwrite(inlineOffset + match.index, inlineOffset + match.index + 2, '→')
         }
 

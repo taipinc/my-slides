@@ -4,7 +4,7 @@ colorSchema: light
 addons:
   - ../../../slidev-addon-shared
 # background: https://cover.sli.dev
-title: Core Lab 1 - Digital Practices
+title: Core Lab 1 - Digital Practices, Resolution
 drawings:
   persist: false
 # transition: fade

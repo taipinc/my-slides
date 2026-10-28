@@ -125,6 +125,7 @@ background: black
 layout: image-caption
 image: ./images/W1siZiIsIjM2MzUzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.webp
 background: black
+scale: 100
 ---
 
 **William Wegman**, *Black Forest*, 1998 | Black and white dye-diffusion transfer prints

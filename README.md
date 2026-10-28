@@ -85,10 +85,73 @@ Output goes to `docs/` directory, ready for GitHub Pages deployment.
 
 ## Available Scripts
 
+The macOS editor prototype can be started with `pnpm editor:dev`. It opens an existing deck in a native GPUI window with a Slidev preview and an inspector with explicit Save and undo/redo for saved changes. See [editor setup and limitations](editor/README.md).
+
 - `pnpm dev` - Start development server for root slides.md
 - `pnpm build` - Build single presentation
 - `pnpm build-all [query]` - Build all (or filtered) presentations
 - `pnpm export` - Export slides to PDF
+
+## Typing responses during a presentation
+
+Use the shared addon's `question-input` layout for a left-aligned question with a wide,
+multiline response area below it:
+
+```md
+---
+layout: question-input
+placeholder: 'What do we think?'
+---
+
+# What makes a process an algorithm?
+```
+
+Or place the reusable component in any layout:
+
+```md
+# Share your observations
+
+<PresentationInput :rows="6" placeholder="Type our observations…" />
+```
+
+Click the field and type, using Enter for new lines. Press Escape to leave the
+field and resume slide keyboard shortcuts. You can edit or select and delete text
+normally. Each field keeps its own responses while navigating the deck. Reloading
+or closing the presentation clears them. Responses belong to the current view;
+they do not sync between presenter and audience windows or other devices.
+
+Both options are available to decks using `slidev-addon-shared`. The root demo
+(`pnpm dev`) includes an example question. The component accepts `label` (its
+accessible name), `placeholder`, and `rows` (default: 8); the layout accepts `label`
+and `placeholder` and fills the remaining slide height with the response area.
+
+## Two columns with a shared title
+
+Use `two-cols-header` from the shared addon with `title`, `left`, and `right`
+slots. It uses the default slide padding and two equal columns below the title.
+The title slot accepts Markdown or components such as `<bold-title>` in decks
+using the `basic-bold` theme:
+
+```md
+---
+layout: two-cols-header
+---
+
+::title::
+
+<bold-title>Shared title</bold-title>
+
+::left::
+
+Left column content.
+
+::right::
+
+Right column content.
+```
+
+As with `two-cols`, `class` styles both columns and `layoutClass` styles the
+overall grid (for example, `layoutClass: gap-x-16` for a wider column gap).
 
 ## Learn More
 

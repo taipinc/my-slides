@@ -2,7 +2,7 @@
 # try also 'default' to start simple
 theme: apple-basic
 addons:
-  - ../../slidev-addon-shared
+  - '@/slidev-addon-shared'
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
@@ -70,6 +70,12 @@ video: https://www.youtube.com/watch?v=P-4pbFcERnk
 ---
 
 What If You Keep Slowing Down?
+
+---
+layout: question-input
+---
+
+# What makes a process an algorithm?
 
 ---
 

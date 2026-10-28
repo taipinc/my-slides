@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "label": "Image on right",
+  "fields": [
+    {
+      "key": "image",
+      "label": "Image",
+      "type": "asset",
+      "accept": [
+        "image"
+      ]
+    },
+    {
+      "key": "width",
+      "label": "Image width (%)",
+      "type": "number",
+      "default": 50
+    },
+    {
+      "key": "align",
+      "label": "Alignment",
+      "type": "select",
+      "options": [
+        "top",
+        "center",
+        "bottom"
+      ],
+      "default": "center"
+    },
+    {
+      "key": "border",
+      "label": "Border",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "key": "background",
+      "label": "Background",
+      "type": "text"
+    },
+    {
+      "key": "color",
+      "label": "Text color",
+      "type": "text"
+    }
+  ],
+  "content": {
+    "label": "Content",
+    "format": "markdown"
+  }
+}

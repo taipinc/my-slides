@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "label": "Image with caption",
+  "fields": [
+    {
+      "key": "image",
+      "label": "Image or video",
+      "type": "asset",
+      "accept": ["image", "video"]
+    },
+    {
+      "key": "scale",
+      "label": "Scale (%)",
+      "type": "number",
+      "default": 100
+    },
+    {
+      "key": "border",
+      "label": "Border",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "key": "background",
+      "label": "Background",
+      "type": "text"
+    },
+    {
+      "key": "color",
+      "label": "Text color",
+      "type": "text"
+    },
+    {
+      "key": "padding",
+      "label": "Padding",
+      "type": "select",
+      "options": ["normal", "minimal"]
+    }
+  ],
+  "content": {
+    "label": "Content",
+    "description": "Caption below the image or video",
+    "format": "markdown"
+  }
+}

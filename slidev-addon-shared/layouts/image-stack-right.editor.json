@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "label": "Stacked images on right",
+  "fields": [
+    {
+      "key": "image1",
+      "label": "First image",
+      "type": "asset",
+      "accept": [
+        "image"
+      ]
+    },
+    {
+      "key": "image2",
+      "label": "Second image",
+      "type": "asset",
+      "accept": [
+        "image"
+      ]
+    },
+    {
+      "key": "image3",
+      "label": "Third image",
+      "type": "asset",
+      "accept": [
+        "image"
+      ]
+    },
+    {
+      "key": "background",
+      "label": "Background",
+      "type": "text"
+    },
+    {
+      "key": "color",
+      "label": "Text color",
+      "type": "text"
+    }
+  ],
+  "content": {
+    "label": "Content",
+    "format": "markdown"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "label": "Image",
+  "fields": [
+    {
+      "key": "image",
+      "label": "Image",
+      "type": "asset",
+      "accept": [
+        "image"
+      ]
+    },
+    {
+      "key": "scale",
+      "label": "Scale (%)",
+      "type": "number",
+      "default": 100
+    },
+    {
+      "key": "background",
+      "label": "Background",
+      "type": "text"
+    },
+    {
+      "key": "color",
+      "label": "Text color",
+      "type": "text"
+    },
+    {
+      "key": "padding",
+      "label": "Padding",
+      "type": "select",
+      "options": [
+        "normal",
+        "minimal"
+      ]
+    }
+  ],
+  "content": {
+    "label": "Content",
+    "format": "markdown"
+  }
+}

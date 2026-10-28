@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "label": "Website embed",
+  "fields": [
+    {
+      "key": "url",
+      "label": "Website URL",
+      "type": "text"
+    },
+    {
+      "key": "background",
+      "label": "Background",
+      "type": "text"
+    },
+    {
+      "key": "color",
+      "label": "Text color",
+      "type": "text"
+    },
+    {
+      "key": "padding",
+      "label": "Padding",
+      "type": "select",
+      "options": [
+        "normal",
+        "minimal"
+      ]
+    }
+  ],
+  "content": {
+    "label": "Content",
+    "format": "markdown"
+  }
+}

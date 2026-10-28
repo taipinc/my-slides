@@ -7,3 +7,5 @@ dist
 .vite-inspect
 .remote-assets
 components.d.ts
+editor/native/target/
+editor/.runtime/

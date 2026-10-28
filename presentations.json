@@ -90,6 +90,12 @@
       "title": "Week 9: Image Resolution",
       "course": "Core Lab 1",
       "semester": "F26"
+    },
+    {
+      "path": "courses/core-lab-1/f26/w10-algorithmic-processes/w10-algorithmic-processes.md",
+      "title": "Week 10: Algorithmic and Generative Image Processing",
+      "course": "Core Lab 1",
+      "semester": "F26"
     }
   ]
 }

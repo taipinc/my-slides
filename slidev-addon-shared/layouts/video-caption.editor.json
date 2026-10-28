@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "label": "Video with caption",
+  "fields": [
+    {
+      "key": "video",
+      "label": "Video URL",
+      "type": "text"
+    },
+    {
+      "key": "start",
+      "label": "Start time (seconds)",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "key": "background",
+      "label": "Background",
+      "type": "text"
+    },
+    {
+      "key": "color",
+      "label": "Text color",
+      "type": "text"
+    },
+    {
+      "key": "padding",
+      "label": "Padding",
+      "type": "select",
+      "options": [
+        "normal",
+        "minimal"
+      ]
+    }
+  ],
+  "content": {
+    "label": "Content",
+    "format": "markdown"
+  }
+}
